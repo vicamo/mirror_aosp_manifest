@@ -19,6 +19,8 @@
   <project name="device/sample" />
   <project name="device/samsung/crespo" />
   <project name="device/samsung/crespo4g" />
+  <project name="kernel/common" />
+  <project name="kernel/omap" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
   <project name="platform/bootable/diskinstaller" />
