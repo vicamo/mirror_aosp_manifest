@@ -25,6 +25,7 @@
   <project name="device/ti/panda" />
   <project name="kernel/common" />
   <project name="kernel/omap" />
+  <project name="kernel/tegra" />
   <project name="platform/abi/cpp" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
