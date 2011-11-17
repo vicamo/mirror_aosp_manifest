@@ -24,6 +24,7 @@
   <project name="device/samsung/tuna" />
   <project name="device/ti/panda" />
   <project name="kernel/common" />
+  <project name="kernel/goldfish" />
   <project name="kernel/omap" />
   <project name="kernel/tegra" />
   <project name="platform/abi/cpp" />
