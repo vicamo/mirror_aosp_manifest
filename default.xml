@@ -90,6 +90,7 @@
   <project name="platform/external/guava" />
   <project name="platform/external/harfbuzz" />
   <project name="platform/external/hcidump" />
+  <project name="platform/external/hsqldb" />
   <project name="platform/external/hyphenation" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/iproute2" />
@@ -99,6 +100,7 @@
   <project name="platform/external/javassist" />
   <project name="platform/external/jdiff" />
   <project name="platform/external/jhead" />
+  <project name="platform/external/jline" />
   <project name="platform/external/jpeg" />
   <project name="platform/external/jsilver" />
   <project name="platform/external/jsr305" />
