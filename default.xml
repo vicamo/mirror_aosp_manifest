@@ -17,10 +17,14 @@
   <project name="device/htc/passion" />
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
+  <project name="device/moto/common" />
+  <project name="device/moto/stingray" />
+  <project name="device/moto/wingray" />
   <project name="device/sample" />
   <project name="device/samsung/crespo" />
   <project name="device/samsung/crespo4g" />
   <project name="device/samsung/maguro" />
+  <project name="device/samsung/toro" />
   <project name="device/samsung/tuna" />
   <project name="device/ti/panda" />
   <project name="kernel/common" />
@@ -121,6 +125,7 @@
   <project name="platform/external/libvpx" />
   <project name="platform/external/libxml2" />
   <project name="platform/external/libxslt" />
+  <project name="platform/external/libyuv" />
   <project name="platform/external/llvm" />
   <project name="platform/external/lohit-fonts" />
   <project name="platform/external/markdown" />
