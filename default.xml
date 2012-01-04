@@ -299,6 +299,7 @@
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
+  <project name="toolchain/expat" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
   <project name="toolchain/gmp" />
