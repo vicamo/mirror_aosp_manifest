@@ -152,6 +152,7 @@
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-pc-bios" />
   <project name="platform/external/quake" />
+  <project name="platform/external/replicaisland" />
   <project name="platform/external/safe-iop" />
   <project name="platform/external/skia" />
   <project name="platform/external/sonivox" />
