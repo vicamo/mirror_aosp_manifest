@@ -120,6 +120,8 @@
   <project name="platform/external/libpcap" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
+  <project name="platform/external/libselinux" />
+  <project name="platform/external/libsepol" />
   <project name="platform/external/libusb" />
   <project name="platform/external/libusb-compat" />
   <project name="platform/external/libvpx" />
@@ -154,6 +156,7 @@
   <project name="platform/external/quake" />
   <project name="platform/external/replicaisland" />
   <project name="platform/external/safe-iop" />
+  <project name="platform/external/sepolicy" />
   <project name="platform/external/skia" />
   <project name="platform/external/sonivox" />
   <project name="platform/external/speex" />
