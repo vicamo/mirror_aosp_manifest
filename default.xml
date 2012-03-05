@@ -212,6 +212,7 @@
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4xxx" />
   <project name="platform/hardware/ti/wlan" />
+  <project name="platform/hardware/ti/wpan" />
   <project name="platform/libcore" />
   <project name="platform/manifest" />
   <project name="platform/ndk" />
