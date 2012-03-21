@@ -72,6 +72,7 @@
   <project name="platform/external/dropbear" />
   <project name="platform/external/e2fsprogs" />
   <project name="platform/external/easymock" />
+  <project name="platform/external/eclipse-windowbuilder" />
   <project name="platform/external/eglib" />
   <project name="platform/external/elfcopy" />
   <project name="platform/external/elfutils" />
