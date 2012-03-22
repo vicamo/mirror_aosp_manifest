@@ -305,6 +305,7 @@
   <project name="platform/tools/tradefederation" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
+  <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
