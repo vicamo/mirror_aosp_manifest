@@ -25,6 +25,7 @@
   <project name="device/samsung/crespo4g" />
   <project name="device/samsung/maguro" />
   <project name="device/samsung/toro" />
+  <project name="device/samsung/torospr" />
   <project name="device/samsung/tuna" />
   <project name="device/ti/panda" />
   <project name="kernel/common" />
