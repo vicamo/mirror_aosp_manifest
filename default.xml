@@ -294,10 +294,14 @@
   <project name="platform/packages/wallpapers/PhaseBeam" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/eclipse" />
+  <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" />
+  <project name="platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3" />
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" />
+  <project name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" />
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/tools" />
   <project name="platform/sdk" />
