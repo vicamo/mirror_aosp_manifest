@@ -48,6 +48,7 @@
   <project name="platform/external/aes" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-mock" />
+  <project name="platform/external/ant-glob" />
   <project name="platform/external/antlr" />
   <project name="platform/external/apache-harmony" />
   <project name="platform/external/apache-http" />
