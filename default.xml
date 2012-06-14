@@ -66,6 +66,7 @@
   <project name="platform/external/bzip2" />
   <project name="platform/external/checkpolicy" />
   <project name="platform/external/chromium" />
+  <project name="platform/external/chromium-trace" />
   <project name="platform/external/clang" />
   <project name="platform/external/clearsilver" />
   <project name="platform/external/collada" />
