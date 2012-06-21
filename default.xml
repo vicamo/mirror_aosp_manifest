@@ -43,6 +43,8 @@
   <project name="platform/build" />
   <project name="platform/cts" />
   <project name="platform/dalvik" />
+  <project name="platform/dalvik-snapshot" />
+  <project name="platform/dalvik2" />
   <project name="platform/development" />
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/aes" />
@@ -222,6 +224,8 @@
   <project name="platform/hardware/ti/wlan" />
   <project name="platform/hardware/ti/wpan" />
   <project name="platform/libcore" />
+  <project name="platform/libcore-snapshot" />
+  <project name="platform/libcore2" />
   <project name="platform/manifest" />
   <project name="platform/ndk" />
   <project name="platform/packages/apps/AccountsAndSyncSettings" />
