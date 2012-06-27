@@ -47,6 +47,7 @@
   <project name="platform/dalvik2" />
   <project name="platform/development" />
   <project name="platform/docs/source.android.com" />
+  <project name="platform/external/aac" />
   <project name="platform/external/aes" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-mock" />
@@ -94,6 +95,7 @@
   <project name="platform/external/flac" />
   <project name="platform/external/freetype" />
   <project name="platform/external/fsck_msdos" />
+  <project name="platform/external/gcc-demangle" />
   <project name="platform/external/gdata" />
   <project name="platform/external/genext2fs" />
   <project name="platform/external/giflib" />
