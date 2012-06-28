@@ -9,6 +9,8 @@
 
   <project name="device/common" />
   <project name="device/generic/goldfish" />
+  <project name="device/google/accessory/adk2012" />
+  <project name="device/google/accessory/adk2012_demo" />
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
   <project name="device/htc/common" />
@@ -57,6 +59,7 @@
   <project name="platform/external/apache-http" />
   <project name="platform/external/apache-qp" />
   <project name="platform/external/apache-xml" />
+  <project name="platform/external/arduino-ide" />
   <project name="platform/external/astl" />
   <project name="platform/external/bison" />
   <project name="platform/external/blktrace" />
@@ -72,6 +75,7 @@
   <project name="platform/external/chromium-trace" />
   <project name="platform/external/clang" />
   <project name="platform/external/clearsilver" />
+  <project name="platform/external/codesourcery" />
   <project name="platform/external/collada" />
   <project name="platform/external/dbus" />
   <project name="platform/external/dhcpcd" />
