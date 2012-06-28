@@ -7,6 +7,7 @@
            remote="aosp"
            sync-j="4" />
 
+  <project name="accessories/manifest" />
   <project name="device/common" />
   <project name="device/generic/goldfish" />
   <project name="device/google/accessory/adk2012" />
