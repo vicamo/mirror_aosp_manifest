@@ -34,6 +34,7 @@
   <project name="device/samsung/toro" />
   <project name="device/samsung/torospr" />
   <project name="device/samsung/tuna" />
+  <project name="device/sony/lt26" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
   <project name="kernel/common" />
