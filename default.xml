@@ -414,11 +414,14 @@
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
+  <project name="toolchain/ccache" />
+  <project name="toolchain/clang" />
   <project name="toolchain/expat" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
   <project name="toolchain/gmp" />
   <project name="toolchain/gold" />
+  <project name="toolchain/llvm" />
   <project name="toolchain/manifest" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
