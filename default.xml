@@ -114,6 +114,7 @@
   <project name="platform/external/expat" />
   <project name="platform/external/eyes-free" />
   <project name="platform/external/faad" />
+  <project name="platform/external/fat32lib" />
   <project name="platform/external/fdlibm" />
   <project name="platform/external/flac" />
   <project name="platform/external/free-image" />
