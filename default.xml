@@ -375,6 +375,8 @@
   <project name="platform/pdk" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/eclipse" />
+  <project name="platform/prebuilts/eclipse-build-deps" />
+  <project name="platform/prebuilts/eclipse-build-deps-sources" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" />
