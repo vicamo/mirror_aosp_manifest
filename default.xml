@@ -280,6 +280,7 @@
   <project name="platform/frameworks/testing" />
   <project name="platform/frameworks/wilhelm" />
   <project name="platform/gdk" />
+  <project name="platform/hardware/akm" />
   <project name="platform/hardware/broadcom/wlan" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
