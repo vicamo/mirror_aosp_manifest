@@ -134,6 +134,7 @@
   <project name="platform/external/guava" />
   <project name="platform/external/hamcrest" />
   <project name="platform/external/harfbuzz" />
+  <project name="platform/external/harfbuzz_ng" />
   <project name="platform/external/hcidump" />
   <project name="platform/external/hsqldb" />
   <project name="platform/external/hyphenation" />
