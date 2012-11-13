@@ -9,10 +9,14 @@
 
   <project name="accessories/manifest" />
   <project name="device/asus/grouper" />
+  <project name="device/asus/tilapia" />
   <project name="device/common" />
   <project name="device/generic/armv7-a" />
   <project name="device/generic/armv7-a-neon" />
+  <project name="device/generic/common" />
   <project name="device/generic/goldfish" />
+  <project name="device/generic/mips" />
+  <project name="device/generic/x86" />
   <project name="device/google/accessory/adk2012" />
   <project name="device/google/accessory/adk2012_demo" />
   <project name="device/google/accessory/arduino" />
@@ -31,6 +35,7 @@
   <project name="device/samsung/crespo" />
   <project name="device/samsung/crespo4g" />
   <project name="device/samsung/maguro" />
+  <project name="device/samsung/manta" />
   <project name="device/samsung/toro" />
   <project name="device/samsung/toroplus" />
   <project name="device/samsung/torospr" />
@@ -77,6 +82,7 @@
   <project name="platform/external/astl" />
   <project name="platform/external/bison" />
   <project name="platform/external/blktrace" />
+  <project name="platform/external/bluetooth/bluedroid" />
   <project name="platform/external/bluetooth/bluez" />
   <project name="platform/external/bluetooth/glib" />
   <project name="platform/external/bluetooth/hcidump" />
@@ -165,12 +171,14 @@
   <project name="platform/external/libgsm" />
   <project name="platform/external/liblzf" />
   <project name="platform/external/libmtp" />
+  <project name="platform/external/libnfc-nci" />
   <project name="platform/external/libnfc-nxp" />
   <project name="platform/external/libnl-headers" />
   <project name="platform/external/libogg" />
   <project name="platform/external/libpcap" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
+  <project name="platform/external/libppp" />
   <project name="platform/external/libselinux" />
   <project name="platform/external/libsepol" />
   <project name="platform/external/libusb" />
@@ -190,6 +198,7 @@
   <project name="platform/external/mesa3d" />
   <project name="platform/external/mksh" />
   <project name="platform/external/mockwebserver" />
+  <project name="platform/external/mp4parser" />
   <project name="platform/external/mp4v2" />
   <project name="platform/external/mpg123" />
   <project name="platform/external/mtpd" />
@@ -238,6 +247,7 @@
   <project name="platform/external/tesseract" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinyxml" />
+  <project name="platform/external/tinyxml2" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
   <project name="platform/external/unicode" />
@@ -253,6 +263,7 @@
   <project name="platform/external/xdelta3" />
   <project name="platform/external/xerces-cpp" />
   <project name="platform/external/xmlwriter" />
+  <project name="platform/external/xmp_toolkit" />
   <project name="platform/external/yaffs2" />
   <project name="platform/external/zlib" />
   <project name="platform/external/zxing" />
@@ -260,6 +271,7 @@
   <project name="platform/frameworks/base" />
   <project name="platform/frameworks/compile/libbcc" />
   <project name="platform/frameworks/compile/linkloader" />
+  <project name="platform/frameworks/compile/llvm-ndk-cc" />
   <project name="platform/frameworks/compile/mclinker" />
   <project name="platform/frameworks/compile/slang" />
   <project name="platform/frameworks/ex" />
@@ -275,6 +287,7 @@
   <project name="platform/frameworks/opt/inputmethodcommon" />
   <project name="platform/frameworks/opt/mailcommon" />
   <project name="platform/frameworks/opt/mms" />
+  <project name="platform/frameworks/opt/photoviewer" />
   <project name="platform/frameworks/opt/telephony" />
   <project name="platform/frameworks/opt/vcard" />
   <project name="platform/frameworks/policies/base" />
@@ -293,6 +306,7 @@
   <project name="platform/hardware/qcom/gps" />
   <project name="platform/hardware/qcom/media" />
   <project name="platform/hardware/ril" />
+  <project name="platform/hardware/samsung_slsi/exynos5" />
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4xxx" />
   <project name="platform/hardware/ti/wlan" />
@@ -367,6 +381,9 @@
   <project name="platform/packages/providers/TelephonyProvider" />
   <project name="platform/packages/providers/UserDictionaryProvider" />
   <project name="platform/packages/providers/WebSearchProvider" />
+  <project name="platform/packages/screensavers/Basic" />
+  <project name="platform/packages/screensavers/PhotoTable" />
+  <project name="platform/packages/screensavers/WebView" />
   <project name="platform/packages/services/EasService" />
   <project name="platform/packages/services/LockAndWipe" />
   <project name="platform/packages/wallpapers/Basic" />
@@ -379,6 +396,10 @@
   <project name="platform/packages/wallpapers/PhaseBeam" />
   <project name="platform/pdk" />
   <project name="platform/prebuilt" />
+  <project name="platform/prebuilts/clang/darwin-x86/3.1" />
+  <project name="platform/prebuilts/clang/darwin-x86/3.2" />
+  <project name="platform/prebuilts/clang/linux-x86/3.1" />
+  <project name="platform/prebuilts/clang/linux-x86/3.2" />
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
