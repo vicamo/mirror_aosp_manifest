@@ -40,6 +40,7 @@
   <project name="device/samsung/toroplus" />
   <project name="device/samsung/torospr" />
   <project name="device/samsung/tuna" />
+  <project name="device/samsung_slsi/arndale" />
   <project name="device/sony/lt26" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
@@ -309,6 +310,7 @@
   <project name="platform/hardware/samsung_slsi/exynos5" />
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4xxx" />
+  <project name="platform/hardware/ti/omap4-aah" />
   <project name="platform/hardware/ti/wlan" />
   <project name="platform/hardware/ti/wpan" />
   <project name="platform/libcore" />
