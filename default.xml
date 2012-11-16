@@ -28,6 +28,8 @@
   <project name="device/htc/passion" />
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
+  <project name="device/lge/mako" />
+  <project name="device/lge/mako-kernel" />
   <project name="device/moto/common" />
   <project name="device/moto/stingray" />
   <project name="device/moto/wingray" />
@@ -304,8 +306,17 @@
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
   <project name="platform/hardware/msm7k" />
+  <project name="platform/hardware/qcom/audio" />
+  <project name="platform/hardware/qcom/bt" />
+  <project name="platform/hardware/qcom/camera" />
+  <project name="platform/hardware/qcom/display" />
   <project name="platform/hardware/qcom/gps" />
+  <project name="platform/hardware/qcom/keymaster" />
   <project name="platform/hardware/qcom/media" />
+  <project name="platform/hardware/qcom/msm8960" />
+  <project name="platform/hardware/qcom/power" />
+  <project name="platform/hardware/qcom/sensors" />
+  <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
   <project name="platform/hardware/samsung_slsi/exynos5" />
   <project name="platform/hardware/ti/omap3" />
