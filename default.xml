@@ -421,6 +421,7 @@
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" />
+  <project name="platform/prebuilts/gcc/darwin-x86/host/headers" />
   <project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" />
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" />
