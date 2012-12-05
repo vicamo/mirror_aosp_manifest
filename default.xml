@@ -116,6 +116,7 @@
   <project name="platform/external/eclipse-basebuilder" />
   <project name="platform/external/eclipse-windowbuilder" />
   <project name="platform/external/eglib" />
+  <project name="platform/external/eigen" />
   <project name="platform/external/elfcopy" />
   <project name="platform/external/elfutils" />
   <project name="platform/external/embunit" />
