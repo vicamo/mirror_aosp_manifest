@@ -458,6 +458,7 @@
   <project name="platform/system/security" />
   <project name="platform/system/vold" />
   <project name="platform/system/wlan/ti" />
+  <project name="platform/tools/base" />
   <project name="platform/tools/build" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/tradefederation" />
