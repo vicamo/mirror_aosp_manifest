@@ -460,7 +460,9 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/tools/base" />
   <project name="platform/tools/build" />
+  <project name="platform/tools/external/gradle" />
   <project name="platform/tools/motodev" />
+  <project name="platform/tools/swt" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
@@ -470,6 +472,7 @@
   <project name="toolchain/build" />
   <project name="toolchain/ccache" />
   <project name="toolchain/clang" />
+  <project name="toolchain/cloog" />
   <project name="toolchain/expat" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
@@ -479,6 +482,9 @@
   <project name="toolchain/manifest" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
+  <project name="toolchain/perl" />
+  <project name="toolchain/ppl" />
+  <project name="toolchain/python" />
   <project name="tools/repo" />
 
 </manifest>
