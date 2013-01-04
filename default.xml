@@ -414,6 +414,7 @@
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
   <project name="platform/prebuilts/clang/linux-x86/3.1" />
   <project name="platform/prebuilts/clang/linux-x86/3.2" />
+  <project name="platform/prebuilts/devtools" />
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
