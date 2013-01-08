@@ -463,6 +463,7 @@
   <project name="platform/tools/base" />
   <project name="platform/tools/build" />
   <project name="platform/tools/emulator" />
+  <project name="platform/tools/external/fat32lib" />
   <project name="platform/tools/external/gradle" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/swt" />
