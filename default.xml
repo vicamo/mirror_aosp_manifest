@@ -210,6 +210,7 @@
   <project name="platform/external/netcat" />
   <project name="platform/external/netperf" />
   <project name="platform/external/neven" />
+  <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/oauth" />
   <project name="platform/external/okhttp" />
