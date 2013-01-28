@@ -201,6 +201,7 @@
   <project name="platform/external/mdnsresponder" />
   <project name="platform/external/mesa3d" />
   <project name="platform/external/mksh" />
+  <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
   <project name="platform/external/mp4parser" />
   <project name="platform/external/mp4v2" />
@@ -213,6 +214,7 @@
   <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/oauth" />
+  <project name="platform/external/objenesis" />
   <project name="platform/external/okhttp" />
   <project name="platform/external/opencore" />
   <project name="platform/external/opencv" />
