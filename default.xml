@@ -187,6 +187,7 @@
   <project name="platform/external/libsepol" />
   <project name="platform/external/libusb" />
   <project name="platform/external/libusb-compat" />
+  <project name="platform/external/libusb_aah" />
   <project name="platform/external/libvorbis" />
   <project name="platform/external/libvpx" />
   <project name="platform/external/libxml2" />
