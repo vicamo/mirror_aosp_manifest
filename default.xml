@@ -488,9 +488,11 @@
   <project name="toolchain/gold" />
   <project name="toolchain/llvm" />
   <project name="toolchain/manifest" />
+  <project name="toolchain/mclinker" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
   <project name="toolchain/perl" />
+  <project name="toolchain/polly" />
   <project name="toolchain/ppl" />
   <project name="toolchain/python" />
   <project name="tools/repo" />
