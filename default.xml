@@ -49,6 +49,7 @@
   <project name="kernel/common" />
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
+  <project name="kernel/lk" />
   <project name="kernel/msm" />
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
