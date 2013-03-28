@@ -482,6 +482,7 @@
   <project name="toolchain/ccache" />
   <project name="toolchain/clang" />
   <project name="toolchain/cloog" />
+  <project name="toolchain/compiler-rt" />
   <project name="toolchain/expat" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
@@ -496,6 +497,7 @@
   <project name="toolchain/polly" />
   <project name="toolchain/ppl" />
   <project name="toolchain/python" />
+  <project name="toolchain/valgrind" />
   <project name="tools/repo" />
 
 </manifest>
