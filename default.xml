@@ -488,6 +488,7 @@
   <project name="toolchain/gdb" />
   <project name="toolchain/gmp" />
   <project name="toolchain/gold" />
+  <project name="toolchain/isl" />
   <project name="toolchain/llvm" />
   <project name="toolchain/manifest" />
   <project name="toolchain/mclinker" />
