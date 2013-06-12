@@ -239,6 +239,7 @@
   <project name="platform/external/regex-re2" />
   <project name="platform/external/replicaisland" />
   <project name="platform/external/safe-iop" />
+  <project name="platform/external/scrypt" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/skia" />
   <project name="platform/external/smali" />
@@ -417,8 +418,16 @@
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
+  <project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
+  <project name="platform/prebuilts/clang/darwin-x86/host/3.3" />
+  <project name="platform/prebuilts/clang/darwin-x86/mips/3.3" />
+  <project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
   <project name="platform/prebuilts/clang/linux-x86/3.1" />
   <project name="platform/prebuilts/clang/linux-x86/3.2" />
+  <project name="platform/prebuilts/clang/linux-x86/arm/3.3" />
+  <project name="platform/prebuilts/clang/linux-x86/host/3.3" />
+  <project name="platform/prebuilts/clang/linux-x86/mips/3.3" />
+  <project name="platform/prebuilts/clang/linux-x86/x86/3.3" />
   <project name="platform/prebuilts/devtools" />
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
