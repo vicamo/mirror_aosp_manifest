@@ -359,6 +359,7 @@
   <project name="platform/packages/apps/GoogleSearch" />
   <project name="platform/packages/apps/HTMLViewer" />
   <project name="platform/packages/apps/IM" />
+  <project name="platform/packages/apps/InCallUI" />
   <project name="platform/packages/apps/KeyChain" />
   <project name="platform/packages/apps/Launcher" />
   <project name="platform/packages/apps/Launcher2" />
@@ -406,6 +407,7 @@
   <project name="platform/packages/screensavers/WebView" />
   <project name="platform/packages/services/EasService" />
   <project name="platform/packages/services/LockAndWipe" />
+  <project name="platform/packages/services/Telephony" />
   <project name="platform/packages/wallpapers/Basic" />
   <project name="platform/packages/wallpapers/Galaxy4" />
   <project name="platform/packages/wallpapers/HoloSpiral" />
@@ -461,6 +463,8 @@
   <project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" />
   <project name="platform/prebuilts/misc" />
   <project name="platform/prebuilts/ndk" />
+  <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
+  <project name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/tools" />
