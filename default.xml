@@ -69,6 +69,7 @@
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/aac" />
   <project name="platform/external/aes" />
+  <project name="platform/external/alac" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-mock" />
   <project name="platform/external/ant-glob" />
