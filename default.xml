@@ -155,6 +155,7 @@
   <project name="platform/external/iproute2" />
   <project name="platform/external/ipsec-tools" />
   <project name="platform/external/iptables" />
+  <project name="platform/external/iputils" />
   <project name="platform/external/jack" />
   <project name="platform/external/javasqlite" />
   <project name="platform/external/javassist" />
@@ -488,6 +489,7 @@
   <project name="platform/tools/idea" />
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/motodev" />
+  <project name="platform/tools/studio/cloud" />
   <project name="platform/tools/swt" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/vendor/htc/dream-open" />
