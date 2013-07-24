@@ -52,7 +52,6 @@
   <project name="device/sony/lt26" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
-  <project name="git-repo" />
   <project name="kernel/common" />
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
