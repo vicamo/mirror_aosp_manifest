@@ -116,6 +116,7 @@
   <project name="platform/external/codesourcery" />
   <project name="platform/external/collada" />
   <project name="platform/external/compiler-rt" />
+  <project name="platform/external/conscrypt" />
   <project name="platform/external/curl" />
   <project name="platform/external/dbus" />
   <project name="platform/external/dexmaker" />
@@ -199,6 +200,7 @@
   <project name="platform/external/libppp" />
   <project name="platform/external/libselinux" />
   <project name="platform/external/libsepol" />
+  <project name="platform/external/libunwind" />
   <project name="platform/external/libusb" />
   <project name="platform/external/libusb-compat" />
   <project name="platform/external/libusb_aah" />
