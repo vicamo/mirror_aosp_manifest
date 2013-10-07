@@ -186,6 +186,7 @@
   <project name="platform/external/lame" />
   <project name="platform/external/lcc" />
   <project name="platform/external/libcap-ng" />
+  <project name="platform/external/libcxx" />
   <project name="platform/external/libffi" />
   <project name="platform/external/libgsm" />
   <project name="platform/external/liblzf" />
