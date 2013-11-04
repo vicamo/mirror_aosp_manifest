@@ -34,6 +34,8 @@
   <project name="device/htc/passion" />
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
+  <project name="device/lge/hammerhead" />
+  <project name="device/lge/hammerhead-kernel" />
   <project name="device/lge/mako" />
   <project name="device/lge/mako-kernel" />
   <project name="device/moto/common" />
@@ -62,6 +64,7 @@
   <project name="kernel/tegra" />
   <project name="mirror/manifest" />
   <project name="platform/abi/cpp" />
+  <project name="platform/art" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
   <project name="platform/bootable/diskinstaller" />
@@ -109,7 +112,32 @@
   <project name="platform/external/ceres-solver" />
   <project name="platform/external/checkpolicy" />
   <project name="platform/external/chromium" />
+  <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
+  <project name="platform/external/chromium_org" />
+  <project name="platform/external/chromium_org/sdch/open-vcdiff" />
+  <project name="platform/external/chromium_org/testing/gtest" />
+  <project name="platform/external/chromium_org/third_party/WebKit" />
+  <project name="platform/external/chromium_org/third_party/angle_dx11" />
+  <project name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" />
+  <project name="platform/external/chromium_org/third_party/freetype" />
+  <project name="platform/external/chromium_org/third_party/icu" />
+  <project name="platform/external/chromium_org/third_party/leveldatabase/src" />
+  <project name="platform/external/chromium_org/third_party/libjingle/source/talk" />
+  <project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" />
+  <project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" />
+  <project name="platform/external/chromium_org/third_party/mesa/src" />
+  <project name="platform/external/chromium_org/third_party/openssl" />
+  <project name="platform/external/chromium_org/third_party/opus/src" />
+  <project name="platform/external/chromium_org/third_party/ots" />
+  <project name="platform/external/chromium_org/third_party/skia/gyp" />
+  <project name="platform/external/chromium_org/third_party/skia/include" />
+  <project name="platform/external/chromium_org/third_party/skia/src" />
+  <project name="platform/external/chromium_org/third_party/smhasher/src" />
+  <project name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" />
+  <project name="platform/external/chromium_org/tools/grit"/>
+  <project name="platform/external/chromium_org/tools/gyp" />
+  <project name="platform/external/chromium_org/v8" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/clang" />
   <project name="platform/external/clearsilver" />
@@ -125,6 +153,7 @@
   <project name="platform/external/doclava" />
   <project name="platform/external/dosfstools" />
   <project name="platform/external/dropbear" />
+  <project name="platform/external/droiddriver" />
   <project name="platform/external/e2fsprogs" />
   <project name="platform/external/easymock" />
   <project name="platform/external/eclipse-basebuilder" />
@@ -244,6 +273,7 @@
   <project name="platform/external/openssl" />
   <project name="platform/external/openvpn" />
   <project name="platform/external/oprofile" />
+  <project name="platform/external/pixman" />
   <project name="platform/external/pcre" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
@@ -261,6 +291,7 @@
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/sepolicy" />
+  <project name="platform/external/sfntly" />
   <project name="platform/external/skia" />
   <project name="platform/external/smack" />
   <project name="platform/external/smali" />
@@ -278,6 +309,7 @@
   <project name="platform/external/tesseract" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
+  <project name="platform/external/tinycompress" />
   <project name="platform/external/tinyxml" />
   <project name="platform/external/tinyxml2" />
   <project name="platform/external/tremolo" />
@@ -330,6 +362,7 @@
   <project name="platform/frameworks/rs" />
   <project name="platform/frameworks/support" />
   <project name="platform/frameworks/testing" />
+  <project name="platform/frameworks/uiautomator" />
   <project name="platform/frameworks/volley" />
   <project name="platform/frameworks/webview" />
   <project name="platform/frameworks/wilhelm" />
@@ -349,6 +382,7 @@
   <project name="platform/hardware/qcom/keymaster" />
   <project name="platform/hardware/qcom/media" />
   <project name="platform/hardware/qcom/msm8960" />
+  <project name="platform/hardware/qcom/msm8x74" />
   <project name="platform/hardware/qcom/power" />
   <project name="platform/hardware/qcom/sensors" />
   <project name="platform/hardware/qcom/wlan" />
@@ -374,6 +408,7 @@
   <project name="platform/packages/apps/Calculator" />
   <project name="platform/packages/apps/Calendar" />
   <project name="platform/packages/apps/Camera" />
+  <project name="platform/packages/apps/Camera2" />
   <project name="platform/packages/apps/CellBroadcastReceiver" />
   <project name="platform/packages/apps/CertInstaller" />
   <project name="platform/packages/apps/Contacts" />
@@ -393,6 +428,7 @@
   <project name="platform/packages/apps/KeyChain" />
   <project name="platform/packages/apps/Launcher" />
   <project name="platform/packages/apps/Launcher2" />
+  <project name="platform/packages/apps/Launcher3" />
   <project name="platform/packages/apps/LegacyCamera" />
   <project name="platform/packages/apps/Mms" />
   <project name="platform/packages/apps/Music" />
@@ -413,6 +449,7 @@
   <project name="platform/packages/apps/Stk" />
   <project name="platform/packages/apps/Sync" />
   <project name="platform/packages/apps/Tag" />
+  <project name="platform/packages/apps/UnifiedEmail" />
   <project name="platform/packages/apps/Updater" />
   <project name="platform/packages/apps/VideoEditor" />
   <project name="platform/packages/apps/VoiceDialer" />
@@ -512,6 +549,7 @@
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <project name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project name="platform/prebuilts/qemu-kernel" />
+  <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/tools" />
   <project name="platform/sdk" />
