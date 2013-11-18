@@ -244,6 +244,7 @@
   <project name="platform/external/llvm" />
   <project name="platform/external/login-items-ae" />
   <project name="platform/external/lohit-fonts" />
+  <project name="platform/external/lzma" />
   <project name="platform/external/marisa-trie" />
   <project name="platform/external/markdown" />
   <project name="platform/external/mdnsresponder" />
@@ -292,6 +293,7 @@
   <project name="platform/external/scrypt" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
+  <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
   <project name="platform/external/smack" />
   <project name="platform/external/smali" />
