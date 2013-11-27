@@ -228,6 +228,7 @@
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
   <project name="platform/external/libppp" />
+  <project name="platform/external/libseccomp-helper" />
   <project name="platform/external/libselinux" />
   <project name="platform/external/libsepol" />
   <project name="platform/external/libunwind" />
