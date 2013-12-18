@@ -222,6 +222,7 @@
   <project name="platform/external/libmtp" />
   <project name="platform/external/libnfc-nci" />
   <project name="platform/external/libnfc-nxp" />
+  <project name="platform/external/libnl" />
   <project name="platform/external/libnl-headers" />
   <project name="platform/external/libogg" />
   <project name="platform/external/libpcap" />
@@ -261,6 +262,7 @@
   <project name="platform/external/netcat" />
   <project name="platform/external/netperf" />
   <project name="platform/external/neven" />
+  <project name="platform/external/nfacct" />
   <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/noto-fonts" />
