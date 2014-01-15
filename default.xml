@@ -571,9 +571,11 @@
   <project name="platform/tools/adt/idea" />
   <project name="platform/tools/base" />
   <project name="platform/tools/build" />
+  <project name="platform/tools/buildSrc" />
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/fat32lib" />
   <project name="platform/tools/external/gradle" />
+  <project name="platform/tools/gradle" />
   <project name="platform/tools/idea" />
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/motodev" />
