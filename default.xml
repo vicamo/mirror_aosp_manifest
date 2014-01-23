@@ -608,6 +608,7 @@
   <project name="toolchain/ppl" />
   <project name="toolchain/python" />
   <project name="toolchain/valgrind" />
+  <project name="toolchain/yasm" />
   <project name="tools/repo" />
 
 </manifest>
