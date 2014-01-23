@@ -135,7 +135,7 @@
   <project name="platform/external/chromium_org/third_party/skia/src" />
   <project name="platform/external/chromium_org/third_party/smhasher/src" />
   <project name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" />
-  <project name="platform/external/chromium_org/tools/grit"/>
+  <project name="platform/external/chromium_org/tools/grit" />
   <project name="platform/external/chromium_org/tools/gyp" />
   <project name="platform/external/chromium_org/v8" />
   <project name="platform/external/cibu-fonts" />
