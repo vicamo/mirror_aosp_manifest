@@ -309,6 +309,7 @@
   <project name="platform/external/strace" />
   <project name="platform/external/stressapptest" />
   <project name="platform/external/svox" />
+  <project name="platform/external/swig" />
   <project name="platform/external/syspatch" />
   <project name="platform/external/tagsoup" />
   <project name="platform/external/tcpdump" />
