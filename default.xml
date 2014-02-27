@@ -254,6 +254,7 @@
   <project name="platform/external/markdown" />
   <project name="platform/external/mdnsresponder" />
   <project name="platform/external/mesa3d" />
+  <project name="platform/external/messageformat" />
   <project name="platform/external/mksh" />
   <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
