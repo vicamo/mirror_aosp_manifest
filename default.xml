@@ -251,6 +251,7 @@
   <project name="platform/external/linux-tools-perf" />
   <project name="platform/external/littlemock" />
   <project name="platform/external/llvm" />
+  <project name="platform/external/llvm_35a" />
   <project name="platform/external/login-items-ae" />
   <project name="platform/external/lohit-fonts" />
   <project name="platform/external/ltrace" />
