@@ -140,6 +140,7 @@
   <project name="platform/external/chromium_org/third_party/skia/include" />
   <project name="platform/external/chromium_org/third_party/skia/src" />
   <project name="platform/external/chromium_org/third_party/smhasher/src" />
+  <project name="platform/external/chromium_org/third_party/usrsctp/usrsctplib" />
   <project name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" />
   <project name="platform/external/chromium_org/tools/grit" />
   <project name="platform/external/chromium_org/tools/gyp" />
