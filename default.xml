@@ -129,6 +129,7 @@
   <project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" />
   <project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" />
   <project name="platform/external/chromium_org/third_party/libsrtp" />
+  <project name="platform/external/chromium_org/third_party/libvpx" />
   <project name="platform/external/chromium_org/third_party/mesa/src" />
   <project name="platform/external/chromium_org/third_party/openssl" />
   <project name="platform/external/chromium_org/third_party/opus/src" />
