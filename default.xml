@@ -214,6 +214,7 @@
   <project name="platform/external/javasqlite" />
   <project name="platform/external/javassist" />
   <project name="platform/external/jdiff" />
+  <project name="platform/external/jemalloc" />
   <project name="platform/external/jenkins-hash" />
   <project name="platform/external/jhead" />
   <project name="platform/external/jline" />
