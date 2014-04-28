@@ -231,6 +231,7 @@
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libcxx" />
   <project name="platform/external/libcxx_35a" />
+  <project name="platform/external/libcxxabi" />
   <project name="platform/external/libcxxabi_35a" />
   <project name="platform/external/libffi" />
   <project name="platform/external/libgsm" />
