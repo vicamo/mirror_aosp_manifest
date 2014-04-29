@@ -132,6 +132,7 @@
   <project name="platform/external/chromium_org/third_party/libvpx" />
   <project name="platform/external/chromium_org/third_party/libyuv" />
   <project name="platform/external/chromium_org/third_party/mesa/src" />
+  <project name="platform/external/chromium_org/third_party/openmax_dl" />
   <project name="platform/external/chromium_org/third_party/openssl" />
   <project name="platform/external/chromium_org/third_party/opus/src" />
   <project name="platform/external/chromium_org/third_party/ots" />
