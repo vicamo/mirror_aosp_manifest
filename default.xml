@@ -178,6 +178,7 @@
   <project name="platform/external/esd" />
   <project name="platform/external/expat" />
   <project name="platform/external/eyes-free" />
+  <project name="platform/external/f2fs-tools" />
   <project name="platform/external/faad" />
   <project name="platform/external/fat32lib" />
   <project name="platform/external/fdlibm" />
