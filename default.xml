@@ -300,6 +300,7 @@
   <project name="platform/external/openssl" />
   <project name="platform/external/openvpn" />
   <project name="platform/external/oprofile" />
+  <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/pixman" />
   <project name="platform/external/pcre" />
   <project name="platform/external/ping" />
