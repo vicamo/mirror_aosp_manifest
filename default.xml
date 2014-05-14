@@ -137,6 +137,7 @@
   <project name="platform/external/chromium_org/third_party/opus/src" />
   <project name="platform/external/chromium_org/third_party/ots" />
   <project name="platform/external/chromium_org/third_party/sfntly/cpp/src" />
+  <project name="platform/external/chromium_org/third_party/skia" />
   <project name="platform/external/chromium_org/third_party/skia/gyp" />
   <project name="platform/external/chromium_org/third_party/skia/include" />
   <project name="platform/external/chromium_org/third_party/skia/src" />
