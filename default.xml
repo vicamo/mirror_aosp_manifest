@@ -182,6 +182,7 @@
   <project name="platform/external/faad" />
   <project name="platform/external/fat32lib" />
   <project name="platform/external/fdlibm" />
+  <project name="platform/external/fio" />
   <project name="platform/external/flac" />
   <project name="platform/external/free-image" />
   <project name="platform/external/freetype" />
