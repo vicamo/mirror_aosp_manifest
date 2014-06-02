@@ -239,6 +239,7 @@
   <project name="platform/external/libcxxabi" />
   <project name="platform/external/libcxxabi_35a" />
   <project name="platform/external/libcxxrt" />
+  <project name="platform/external/libexif" />
   <project name="platform/external/libffi" />
   <project name="platform/external/libgsm" />
   <project name="platform/external/liblzf" />
