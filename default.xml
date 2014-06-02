@@ -256,6 +256,7 @@
   <project name="platform/external/libseccomp-helper" />
   <project name="platform/external/libselinux" />
   <project name="platform/external/libsepol" />
+  <project name="platform/external/libssh2" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libusb" />
   <project name="platform/external/libusb-compat" />
