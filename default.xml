@@ -127,7 +127,6 @@
   <project name="platform/external/chromium_org/third_party/icu" />
   <project name="platform/external/chromium_org/third_party/leveldatabase/src" />
   <project name="platform/external/chromium_org/third_party/libaddressinput/src" />
-  <project name="platform/external/chromium_org/third_party/libaddressinput/src/cpp" />
   <project name="platform/external/chromium_org/third_party/libjingle/source/talk" />
   <project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" />
   <project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" />
