@@ -593,6 +593,7 @@
   <project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" />
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" />
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" />
+  <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" />
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/misc" />
