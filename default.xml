@@ -584,6 +584,7 @@
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
   <project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8" />
+  <project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" />
   <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" />
   <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" />
