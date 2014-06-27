@@ -188,6 +188,7 @@
   <project name="platform/external/fdlibm" />
   <project name="platform/external/fio" />
   <project name="platform/external/flac" />
+  <project name="platform/external/fonttools" />
   <project name="platform/external/free-image" />
   <project name="platform/external/freetype" />
   <project name="platform/external/fsck_msdos" />
