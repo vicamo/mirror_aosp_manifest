@@ -383,6 +383,7 @@
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
   <project name="platform/frameworks/ml" />
+  <project name="platform/frameworks/multidex" />
   <project name="platform/frameworks/native" />
   <project name="platform/frameworks/opt/calendar" />
   <project name="platform/frameworks/opt/carddav" />
