@@ -122,6 +122,7 @@
   <project name="platform/external/chromium_org/third_party/WebKit" />
   <project name="platform/external/chromium_org/third_party/angle" />
   <project name="platform/external/chromium_org/third_party/angle_dx11" />
+  <project name="platform/external/chromium_org/third_party/boringssl/src" />
   <project name="platform/external/chromium_org/third_party/brotli/src" />
   <project name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" />
   <project name="platform/external/chromium_org/third_party/freetype" />
