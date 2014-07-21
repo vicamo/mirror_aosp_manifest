@@ -656,6 +656,7 @@
   <project name="toolchain/gold" />
   <project name="toolchain/isl" />
   <project name="toolchain/jack" />
+  <project name="toolchain/jill" />
   <project name="toolchain/llvm" />
   <project name="toolchain/manifest" />
   <project name="toolchain/mclinker" />
