@@ -641,6 +641,7 @@
   <project name="platform/tools/studio/cloud" />
   <project name="platform/tools/studio/google/cloud/testing" />
   <project name="platform/tools/studio/google/login" />
+  <project name="platform/tools/studio/google/play" />
   <project name="platform/tools/swt" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/vendor/htc/dream-open" />
