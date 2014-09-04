@@ -589,6 +589,7 @@
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" />
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
   <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" />
   <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" />
