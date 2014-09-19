@@ -395,6 +395,7 @@
   <project name="platform/frameworks/opt/com.google.android.googlelogin" />
   <project name="platform/frameworks/opt/datetimepicker" />
   <project name="platform/frameworks/opt/emoji" />
+  <project name="platform/frameworks/opt/inputconnectioncommon" />
   <project name="platform/frameworks/opt/inputmethodcommon" />
   <project name="platform/frameworks/opt/mailcommon" />
   <project name="platform/frameworks/opt/mms" />
