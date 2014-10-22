@@ -16,6 +16,7 @@
   <project name="device/common" />
   <project name="device/generic/armv7-a" />
   <project name="device/generic/armv7-a-neon" />
+  <project name="device/generic/art" />
   <project name="device/generic/common" />
   <project name="device/generic/goldfish" />
   <project name="device/generic/mini-emulator-armv7-a-neon" />
@@ -59,6 +60,7 @@
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
   <project name="kernel/lk" />
+  <project name="kernel/mediatek" />
   <project name="kernel/msm" />
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
@@ -275,6 +277,7 @@
   <project name="platform/external/libyuv" />
   <project name="platform/external/linux-tools-perf" />
   <project name="platform/external/littlemock" />
+  <project name="platform/external/lldb" />
   <project name="platform/external/llvm" />
   <project name="platform/external/llvm_35a" />
   <project name="platform/external/login-items-ae" />
@@ -649,10 +652,12 @@
   <project name="platform/tools/studio/google/cloud/tools" />
   <project name="platform/tools/studio/google/login" />
   <project name="platform/tools/studio/google/play" />
+  <project name="platform/tools/studio/google/translation" />
   <project name="platform/tools/swt" />
   <project name="platform/tools/tradefederation" />
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
+  <project name="platform/vendor/invensense" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
@@ -680,6 +685,7 @@
   <project name="toolchain/python" />
   <project name="toolchain/valgrind" />
   <project name="toolchain/yasm" />
+  <project name="tools/aospstats" />
   <project name="tools/repo" />
 
 </manifest>
