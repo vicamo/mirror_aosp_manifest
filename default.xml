@@ -41,6 +41,7 @@
   <project name="device/htc/dream" />
   <project name="device/htc/dream-sapphire" />
   <project name="device/htc/flounder" />
+  <project name="device/htc/flounder-kernel" />
   <project name="device/htc/passion" />
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
