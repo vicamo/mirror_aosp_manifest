@@ -22,6 +22,7 @@
   <project name="device/generic/art" />
   <project name="device/generic/common" />
   <project name="device/generic/goldfish" />
+  <project name="device/generic/mini-emulator-arm64" />
   <project name="device/generic/mini-emulator-armv7-a-neon" />
   <project name="device/generic/mini-emulator-mips" />
   <project name="device/generic/mini-emulator-x86" />
