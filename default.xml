@@ -11,6 +11,7 @@
   <project name="device/asus/deb" />
   <project name="device/asus/flo" />
   <project name="device/asus/flo-kernel" />
+  <project name="device/asus/fugu" />
   <project name="device/asus/grouper" />
   <project name="device/asus/tilapia" />
   <project name="device/common" />
