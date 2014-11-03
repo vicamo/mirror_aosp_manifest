@@ -456,6 +456,7 @@
   <project name="platform/hardware/broadcom/wlan" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/intel/audio_media" />
+  <project name="platform/hardware/intel/bootstub" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
