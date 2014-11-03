@@ -433,6 +433,7 @@
   <project name="platform/frameworks/opt/mailcommon" />
   <project name="platform/frameworks/opt/mms" />
   <project name="platform/frameworks/opt/net/ethernet" />
+  <project name="platform/frameworks/opt/net/ims" />
   <project name="platform/frameworks/opt/net/voip" />
   <project name="platform/frameworks/opt/photoviewer" />
   <project name="platform/frameworks/opt/telephony" />
