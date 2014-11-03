@@ -422,6 +422,7 @@
   <project name="platform/frameworks/opt/bluetooth" />
   <project name="platform/frameworks/opt/calendar" />
   <project name="platform/frameworks/opt/carddav" />
+  <project name="platform/frameworks/opt/chips" />
   <project name="platform/frameworks/opt/colorpicker" />
   <project name="platform/frameworks/opt/com.google.android" />
   <project name="platform/frameworks/opt/com.google.android.googlelogin" />
