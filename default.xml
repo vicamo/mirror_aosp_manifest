@@ -30,6 +30,7 @@
   <project name="device/generic/mips" />
   <project name="device/generic/qemu" />
   <project name="device/generic/x86" />
+  <project name="device/generic/x86_64" />
   <project name="device/google/accessory/adk2012" />
   <project name="device/google/accessory/adk2012_demo" />
   <project name="device/google/accessory/arduino" />
