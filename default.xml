@@ -240,6 +240,7 @@
   <project name="platform/external/iptables" />
   <project name="platform/external/iputils" />
   <project name="platform/external/jack" />
+  <project name="platform/external/jarjar" />
   <project name="platform/external/javasqlite" />
   <project name="platform/external/javassist" />
   <project name="platform/external/jdiff" />
