@@ -252,6 +252,7 @@
   <project name="platform/external/jmonkeyengine" />
   <project name="platform/external/jpeg" />
   <project name="platform/external/jsilver" />
+  <project name="platform/external/jsmn" />
   <project name="platform/external/jsoncpp" />
   <project name="platform/external/jsr305" />
   <project name="platform/external/junit" />
