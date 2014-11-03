@@ -463,6 +463,7 @@
   <project name="platform/hardware/intel/common/libva" />
   <project name="platform/hardware/intel/common/libwsbm" />
   <project name="platform/hardware/intel/common/omx-components" />
+  <project name="platform/hardware/intel/common/utils" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
