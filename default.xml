@@ -414,6 +414,7 @@
   <project name="platform/frameworks/ex" />
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
+  <project name="platform/frameworks/minikin" />
   <project name="platform/frameworks/ml" />
   <project name="platform/frameworks/multidex" />
   <project name="platform/frameworks/native" />
