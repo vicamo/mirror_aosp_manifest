@@ -402,6 +402,7 @@
   <project name="platform/external/xmp_toolkit" />
   <project name="platform/external/yaffs2" />
   <project name="platform/external/zlib" />
+  <project name="platform/external/zopfli" />
   <project name="platform/external/zxing" />
   <project name="platform/frameworks/av" />
   <project name="platform/frameworks/base" />
