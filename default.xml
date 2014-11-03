@@ -577,6 +577,7 @@
   <project name="platform/packages/providers/MediaProvider" />
   <project name="platform/packages/providers/PartnerBookmarksProvider" />
   <project name="platform/packages/providers/TelephonyProvider" />
+  <project name="platform/packages/providers/TvProvider" />
   <project name="platform/packages/providers/UserDictionaryProvider" />
   <project name="platform/packages/providers/WebSearchProvider" />
   <project name="platform/packages/screensavers/Basic" />
