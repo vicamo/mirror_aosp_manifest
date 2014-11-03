@@ -257,6 +257,7 @@
   <project name="platform/external/jsr305" />
   <project name="platform/external/junit" />
   <project name="platform/external/kernel-headers" />
+  <project name="platform/external/ksoap2" />
   <project name="platform/external/lame" />
   <project name="platform/external/lcc" />
   <project name="platform/external/libcap-ng" />
