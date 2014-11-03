@@ -474,6 +474,7 @@
   <project name="platform/hardware/libhardware_legacy" />
   <project name="platform/hardware/msm7k" />
   <project name="platform/hardware/nvidia/audio" />
+  <project name="platform/hardware/nvidia/tegra124" />
   <project name="platform/hardware/qcom/audio" />
   <project name="platform/hardware/qcom/bt" />
   <project name="platform/hardware/qcom/camera" />
