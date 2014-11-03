@@ -35,6 +35,7 @@
   <project name="device/google/accessory/adk2012_demo" />
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
+  <project name="device/google/atv" />
   <project name="device/google/phantasm" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
