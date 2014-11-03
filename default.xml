@@ -437,6 +437,7 @@
   <project name="platform/frameworks/opt/net/voip" />
   <project name="platform/frameworks/opt/net/wifi" />
   <project name="platform/frameworks/opt/photoviewer" />
+  <project name="platform/frameworks/opt/setupwizard" />
   <project name="platform/frameworks/opt/telephony" />
   <project name="platform/frameworks/opt/timezonepicker" />
   <project name="platform/frameworks/opt/vcard" />
