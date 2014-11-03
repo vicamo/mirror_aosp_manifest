@@ -467,6 +467,7 @@
   <project name="platform/hardware/intel/common/wrs_omxil_core" />
   <project name="platform/hardware/intel/img/hwcomposer" />
   <project name="platform/hardware/intel/img/libdrm" />
+  <project name="platform/hardware/intel/img/psb_headers" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
