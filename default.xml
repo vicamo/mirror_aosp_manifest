@@ -419,6 +419,7 @@
   <project name="platform/frameworks/multidex" />
   <project name="platform/frameworks/native" />
   <project name="platform/frameworks/opt/bitmap" />
+  <project name="platform/frameworks/opt/bluetooth" />
   <project name="platform/frameworks/opt/calendar" />
   <project name="platform/frameworks/opt/carddav" />
   <project name="platform/frameworks/opt/colorpicker" />
