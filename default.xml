@@ -585,6 +585,7 @@
   <project name="platform/packages/screensavers/WebView" />
   <project name="platform/packages/services/EasService" />
   <project name="platform/packages/services/LockAndWipe" />
+  <project name="platform/packages/services/Mms" />
   <project name="platform/packages/services/Telephony" />
   <project name="platform/packages/wallpapers/Basic" />
   <project name="platform/packages/wallpapers/Galaxy4" />
