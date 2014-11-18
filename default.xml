@@ -391,6 +391,7 @@
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
   <project name="platform/external/vixl" />
+  <project name="platform/external/vogar" />
   <project name="platform/external/webkit" />
   <project name="platform/external/webp" />
   <project name="platform/external/webrtc" />
