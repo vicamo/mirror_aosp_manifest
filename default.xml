@@ -558,6 +558,7 @@
   <project name="platform/packages/apps/Stk" />
   <project name="platform/packages/apps/Sync" />
   <project name="platform/packages/apps/Tag" />
+  <project name="platform/packages/apps/Terminal" />
   <project name="platform/packages/apps/TvSettings" />
   <project name="platform/packages/apps/UnifiedEmail" />
   <project name="platform/packages/apps/Updater" />
