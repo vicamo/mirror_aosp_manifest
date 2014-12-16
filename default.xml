@@ -301,6 +301,7 @@
   <project name="platform/external/libyuv" />
   <project name="platform/external/linux-tools-perf" />
   <project name="platform/external/littlemock" />
+  <project name="platform/external/lld" />
   <project name="platform/external/lldb" />
   <project name="platform/external/llvm" />
   <project name="platform/external/llvm_35a" />
