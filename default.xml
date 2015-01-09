@@ -353,6 +353,7 @@
   <project name="platform/external/protobuf" />
   <project name="platform/external/pthreads" />
   <project name="platform/external/qemu" />
+  <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
   <project name="platform/external/qt" />
   <project name="platform/external/quake" />
