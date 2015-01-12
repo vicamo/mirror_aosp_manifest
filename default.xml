@@ -216,6 +216,7 @@
   <project name="platform/external/genext2fs" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
+  <project name="platform/external/gmock" />
   <project name="platform/external/google-diff-match-patch" />
   <project name="platform/external/google-fonts/carrois-gothic-sc" />
   <project name="platform/external/google-fonts/coming-soon" />
