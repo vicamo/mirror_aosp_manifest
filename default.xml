@@ -686,6 +686,7 @@
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/misc" />
   <project name="platform/prebuilts/ndk" />
+  <project name="platform/prebuilts/ninja/linux-x86" />
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <project name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project name="platform/prebuilts/qemu-kernel" />
