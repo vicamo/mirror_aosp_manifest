@@ -128,6 +128,7 @@
   <project name="platform/external/bouncycastle" />
   <project name="platform/external/bsdiff" />
   <project name="platform/external/bzip2" />
+  <project name="platform/external/cblas" />
   <project name="platform/external/ceres-solver" />
   <project name="platform/external/checkpolicy" />
   <project name="platform/external/chromium" />
