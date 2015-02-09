@@ -124,6 +124,7 @@
   <project name="platform/external/bluetooth/hcidump" />
   <project name="platform/external/bluez" />
   <project name="platform/external/boost" />
+  <project name="platform/external/boringssl" />
   <project name="platform/external/bouncycastle" />
   <project name="platform/external/bsdiff" />
   <project name="platform/external/bzip2" />
