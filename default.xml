@@ -308,6 +308,7 @@
   <project name="platform/external/littlemock" />
   <project name="platform/external/lld" />
   <project name="platform/external/lldb" />
+  <project name="platform/external/lldb-utils" />
   <project name="platform/external/llvm" />
   <project name="platform/external/llvm_35a" />
   <project name="platform/external/login-items-ae" />
