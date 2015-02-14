@@ -718,6 +718,7 @@
   <project name="platform/tools/buildSrc" />
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/fat32lib" />
+  <project name="platform/tools/external/go/src/golang.org/x/net" />
   <project name="platform/tools/external/gradle" />
   <project name="platform/tools/gpu" />
   <project name="platform/tools/gradle" />
