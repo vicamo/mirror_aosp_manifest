@@ -131,6 +131,7 @@
   <project name="platform/external/cblas" />
   <project name="platform/external/ceres-solver" />
   <project name="platform/external/checkpolicy" />
+  <project name="platform/external/cherry" />
   <project name="platform/external/chromium" />
   <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
