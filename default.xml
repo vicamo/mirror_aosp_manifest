@@ -720,9 +720,7 @@
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/fat32lib" />
   <project name="platform/tools/external/go/src/github.com/go-gl-legacy/gl" />
-  <project name="platform/tools/external/go/src/github.com/go-gl/gl" />
   <project name="platform/tools/external/go/src/github.com/go-gl/glfw" />
-  <project name="platform/tools/external/go/src/github.com/go-gl/glfw3" />
   <project name="platform/tools/external/go/src/github.com/golang/protobuf" />
   <project name="platform/tools/external/go/src/golang.org/x/net" />
   <project name="platform/tools/external/go/src/golang.org/x/tools" />
