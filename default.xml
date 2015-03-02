@@ -378,6 +378,7 @@
   <project name="platform/external/sonivox" />
   <project name="platform/external/speex" />
   <project name="platform/external/sqlite" />
+  <project name="platform/external/squashfs-tools" />
   <project name="platform/external/srec" />
   <project name="platform/external/srtp" />
   <project name="platform/external/stlport" />
