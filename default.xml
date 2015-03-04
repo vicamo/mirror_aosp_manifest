@@ -280,6 +280,7 @@
   <project name="platform/external/libgsm" />
   <project name="platform/external/libhevc" />
   <project name="platform/external/liblzf" />
+  <project name="platform/external/libmpeg2" />
   <project name="platform/external/libmtp" />
   <project name="platform/external/libnfc-nci" />
   <project name="platform/external/libnfc-nxp" />
