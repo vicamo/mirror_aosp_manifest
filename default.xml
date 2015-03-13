@@ -584,6 +584,7 @@
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
   <project name="platform/packages/providers/ApplicationsProvider" />
+  <project name="platform/packages/providers/BookmarkProvider" />
   <project name="platform/packages/providers/CalendarProvider" />
   <project name="platform/packages/providers/ContactsProvider" />
   <project name="platform/packages/providers/DownloadProvider" />
