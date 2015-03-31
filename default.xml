@@ -376,6 +376,7 @@
   <project name="platform/external/sfntly" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
+  <project name="platform/external/slf4j" />
   <project name="platform/external/smack" />
   <project name="platform/external/smali" />
   <project name="platform/external/sonivox" />
