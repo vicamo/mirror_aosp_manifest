@@ -380,6 +380,7 @@
   <project name="platform/external/slf4j" />
   <project name="platform/external/smack" />
   <project name="platform/external/smali" />
+  <project name="platform/external/sonic" />
   <project name="platform/external/sonivox" />
   <project name="platform/external/speex" />
   <project name="platform/external/sqlite" />
