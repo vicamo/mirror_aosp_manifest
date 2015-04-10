@@ -643,6 +643,7 @@
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
+  <project name="platform/prebuilts/fullsdk/build-tools/22-windows" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
