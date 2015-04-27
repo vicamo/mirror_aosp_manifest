@@ -721,6 +721,7 @@
   <project name="platform/system/bt" />
   <project name="platform/system/core" />
   <project name="platform/system/extras" />
+  <project name="platform/system/gatekeeper" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
   <project name="platform/system/media" />
