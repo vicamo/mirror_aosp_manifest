@@ -624,6 +624,7 @@
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/android-emulator" />
   <project name="platform/prebuilts/android-emulator-build/archive" />
+  <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
   <project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
