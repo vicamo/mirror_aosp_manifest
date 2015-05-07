@@ -623,6 +623,7 @@
   <project name="platform/pdk" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/android-emulator" />
+  <project name="platform/prebuilts/android-emulator-build/archive" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
   <project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
