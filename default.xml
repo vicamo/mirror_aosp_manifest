@@ -638,6 +638,7 @@
   <project name="platform/prebuilts/clang/darwin-x86/sdk/3.5" />
   <project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
   <project name="platform/prebuilts/clang/host/darwin-x86" />
+  <project name="platform/prebuilts/clang/host/linux-x86" />
   <project name="platform/prebuilts/clang/linux-x86/3.1" />
   <project name="platform/prebuilts/clang/linux-x86/3.2" />
   <project name="platform/prebuilts/clang/linux-x86/arm/3.3" />
