@@ -729,6 +729,7 @@
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/swig/darwin-x86" />
   <project name="platform/prebuilts/swig/linux-x86" />
+  <project name="platform/prebuilts/swig/windows-x86" />
   <project name="platform/prebuilts/tools" />
   <project name="platform/sdk" />
   <project name="platform/system/bluetooth" />
