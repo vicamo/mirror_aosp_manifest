@@ -649,6 +649,7 @@
   <project name="platform/prebuilts/clang/linux-x86/mips/3.3" />
   <project name="platform/prebuilts/clang/linux-x86/x86/3.3" />
   <project name="platform/prebuilts/cmake/darwin-x86" />
+  <project name="platform/prebuilts/cmake/linux-x86" />
   <project name="platform/prebuilts/devtools" />
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
