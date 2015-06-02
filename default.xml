@@ -724,6 +724,7 @@
   <project name="platform/prebuilts/ninja/windows-x86" />
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <project name="platform/prebuilts/python/linux-x86/2.7.5" />
+  <project name="platform/prebuilts/python/windows-x86" />
   <project name="platform/prebuilts/qemu-kernel" />
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/sdk" />
