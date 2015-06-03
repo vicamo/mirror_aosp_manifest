@@ -768,6 +768,7 @@
   <project name="platform/tools/studio/google/cloud/tools" />
   <project name="platform/tools/studio/google/login" />
   <project name="platform/tools/studio/google/play" />
+  <project name="platform/tools/studio/google/services" />
   <project name="platform/tools/studio/translation" />
   <project name="platform/tools/swt" />
   <project name="platform/tools/tradefederation" />
