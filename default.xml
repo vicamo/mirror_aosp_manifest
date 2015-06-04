@@ -811,5 +811,6 @@
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
   <project name="trusty/lk/trusty" />
+  <project name="trusty/vendor/google/aosp" />
 
 </manifest>
