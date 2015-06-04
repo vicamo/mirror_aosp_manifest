@@ -805,5 +805,6 @@
   <project name="tools/aospstats" />
   <project name="tools/repo" />
   <project name="trusty/lk/common" />
+  <project name="trusty/lk/trusty" />
 
 </manifest>
