@@ -806,6 +806,7 @@
   <project name="tools/repo" />
   <project name="trusty/app/sample" />
   <project name="trusty/device/arm/generic-arm64" />
+  <project name="trusty/device/arm/vexpress-a15" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
   <project name="trusty/lk/trusty" />
