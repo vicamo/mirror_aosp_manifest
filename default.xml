@@ -804,6 +804,7 @@
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
   <project name="tools/repo" />
+  <project name="trusty/app/sample" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
   <project name="trusty/lk/trusty" />
