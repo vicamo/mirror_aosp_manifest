@@ -804,5 +804,6 @@
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
   <project name="tools/repo" />
+  <project name="trusty/lk/common" />
 
 </manifest>
