@@ -407,6 +407,7 @@
   <project name="platform/external/tinycompress" />
   <project name="platform/external/tinyxml" />
   <project name="platform/external/tinyxml2" />
+  <project name="platform/external/tlsdate" />
   <project name="platform/external/toybox" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
