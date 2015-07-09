@@ -334,6 +334,7 @@
   <project name="platform/external/mockftpserver" />
   <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
+  <project name="platform/external/modp_b64" />
   <project name="platform/external/mp4parser" />
   <project name="platform/external/mp4v2" />
   <project name="platform/external/mpg123" />
