@@ -220,6 +220,7 @@
   <project name="platform/external/ganymed-ssh2" />
   <project name="platform/external/gcc-demangle" />
   <project name="platform/external/gdata" />
+  <project name="platform/external/gemmlowp" />
   <project name="platform/external/genext2fs" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
