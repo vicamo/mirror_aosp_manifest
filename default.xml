@@ -753,6 +753,7 @@
   <project name="platform/system/security" />
   <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
+  <project name="platform/system/wifi" />
   <project name="platform/system/wlan/ti" />
   <project name="platform/tools/adt/eclipse" />
   <project name="platform/tools/adt/idea" />
