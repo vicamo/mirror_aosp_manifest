@@ -751,6 +751,7 @@
   <project name="platform/system/media" />
   <project name="platform/system/netd" />
   <project name="platform/system/security" />
+  <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
   <project name="platform/system/wlan/ti" />
   <project name="platform/tools/adt/eclipse" />
