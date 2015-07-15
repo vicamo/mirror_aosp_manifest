@@ -245,6 +245,7 @@
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/id3lib" />
+  <project name="platform/external/iosched" />
   <project name="platform/external/iproute2" />
   <project name="platform/external/ipsec-tools" />
   <project name="platform/external/iptables" />
