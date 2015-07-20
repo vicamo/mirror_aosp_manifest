@@ -542,6 +542,7 @@
   <project name="platform/packages/apps/BasicSmsReceiver" />
   <project name="platform/packages/apps/Bluetooth" />
   <project name="platform/packages/apps/Browser" />
+  <project name="platform/packages/apps/Browser2" />
   <project name="platform/packages/apps/Calculator" />
   <project name="platform/packages/apps/Calendar" />
   <project name="platform/packages/apps/Camera" />
