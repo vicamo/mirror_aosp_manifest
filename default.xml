@@ -87,6 +87,7 @@
   <project name="platform/bootable/recovery" />
   <project name="platform/build" />
   <project name="platform/build/blueprint" />
+  <project name="platform/build/kati" />
   <project name="platform/build/soong" />
   <project name="platform/cts" />
   <project name="platform/dalvik" />
