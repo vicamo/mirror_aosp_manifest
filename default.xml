@@ -187,6 +187,7 @@
   <project name="platform/external/conscrypt" />
   <project name="platform/external/curl" />
   <project name="platform/external/dbus" />
+  <project name="platform/external/dbus-binding-generator" />
   <project name="platform/external/deqp" />
   <project name="platform/external/dexmaker" />
   <project name="platform/external/dhcpcd" />
