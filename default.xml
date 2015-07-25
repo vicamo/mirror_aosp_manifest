@@ -758,6 +758,7 @@
   <project name="platform/sdk" />
   <project name="platform/system/bluetooth" />
   <project name="platform/system/bt" />
+  <project name="platform/system/connectivity/shill" />
   <project name="platform/system/core" />
   <project name="platform/system/extras" />
   <project name="platform/system/gatekeeper" />
