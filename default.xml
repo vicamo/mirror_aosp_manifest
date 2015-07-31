@@ -766,6 +766,7 @@
   <project name="platform/system/keymaster" />
   <project name="platform/system/media" />
   <project name="platform/system/netd" />
+  <project name="platform/system/peerd" />
   <project name="platform/system/security" />
   <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
