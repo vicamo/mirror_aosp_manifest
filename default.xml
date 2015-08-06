@@ -362,6 +362,7 @@
   <project name="platform/external/open-vcdiff" />
   <project name="platform/external/opencore" />
   <project name="platform/external/opencv" />
+  <project name="platform/external/opencv3" />
   <project name="platform/external/openfst" />
   <project name="platform/external/openssh" />
   <project name="platform/external/openssl" />
