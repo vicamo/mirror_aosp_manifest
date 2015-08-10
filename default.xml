@@ -765,6 +765,7 @@
   <project name="platform/system/connectivity/shill" />
   <project name="platform/system/core" />
   <project name="platform/system/extras" />
+  <project name="platform/system/firewalld" />
   <project name="platform/system/gatekeeper" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
