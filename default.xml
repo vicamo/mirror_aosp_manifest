@@ -216,7 +216,6 @@
   <project name="platform/external/fdlibm" />
   <project name="platform/external/fec" />
   <project name="platform/external/fio" />
-  <project name="platform/external/firewalld" />
   <project name="platform/external/flac" />
   <project name="platform/external/fonttools" />
   <project name="platform/external/free-image" />
