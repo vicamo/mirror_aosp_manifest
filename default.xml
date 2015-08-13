@@ -192,6 +192,7 @@
   <project name="platform/external/deqp" />
   <project name="platform/external/dexmaker" />
   <project name="platform/external/dhcpcd" />
+  <project name="platform/external/dhcpcd-6.8.2" />
   <project name="platform/external/dnsmasq" />
   <project name="platform/external/doclava" />
   <project name="platform/external/dosfstools" />
