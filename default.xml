@@ -353,6 +353,7 @@
   <project name="platform/external/mtpd" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
+  <project name="platform/external/nasm" />
   <project name="platform/external/naver-fonts" />
   <project name="platform/external/netcat" />
   <project name="platform/external/netperf" />
