@@ -395,6 +395,7 @@
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/sdl2" />
+  <project name="platform/external/sdl2_ttf" />
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
