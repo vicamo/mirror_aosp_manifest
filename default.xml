@@ -382,6 +382,7 @@
   <project name="platform/external/ppp" />
   <project name="platform/external/proguard" />
   <project name="platform/external/protobuf" />
+  <project name="platform/external/protobuf2.5" />
   <project name="platform/external/pthreads" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
