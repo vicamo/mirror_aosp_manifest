@@ -103,6 +103,7 @@
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/aes" />
   <project name="platform/external/alac" />
+  <project name="platform/external/alsa-lib" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-mock" />
   <project name="platform/external/ant-glob" />
