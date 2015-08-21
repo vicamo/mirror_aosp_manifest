@@ -604,6 +604,7 @@
   <project name="platform/packages/apps/SpeechRecorder" />
   <project name="platform/packages/apps/Stk" />
   <project name="platform/packages/apps/Sync" />
+  <project name="platform/packages/apps/TV" />
   <project name="platform/packages/apps/Tag" />
   <project name="platform/packages/apps/Terminal" />
   <project name="platform/packages/apps/TvSettings" />
