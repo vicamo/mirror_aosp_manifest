@@ -189,6 +189,7 @@
   <project name="platform/external/compiler-rt_35a" />
   <project name="platform/external/conscrypt" />
   <project name="platform/external/curl" />
+  <project name="platform/external/dagger2" />
   <project name="platform/external/dbus" />
   <project name="platform/external/dbus-binding-generator" />
   <project name="platform/external/deqp" />
