@@ -791,6 +791,7 @@
   <project name="platform/system/peerd" />
   <project name="platform/system/security" />
   <project name="platform/system/tools/aidl" />
+  <project name="platform/system/trunks" />
   <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
   <project name="platform/system/weaved" />
