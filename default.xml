@@ -658,6 +658,7 @@
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/android-emulator" />
   <project name="platform/prebuilts/android-emulator-build/archive" />
+  <project name="platform/prebuilts/android-emulator-build/curl" />
   <project name="platform/prebuilts/android-emulator-build/mesa" />
   <project name="platform/prebuilts/android-emulator-build/mesa-deps" />
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
