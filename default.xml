@@ -775,6 +775,7 @@
   <project name="platform/prebuilts/swig/windows-x86" />
   <project name="platform/prebuilts/tools" />
   <project name="platform/sdk" />
+  <project name="platform/system/attestation" />
   <project name="platform/system/bluetooth" />
   <project name="platform/system/bt" />
   <project name="platform/system/connectivity/apmanager" />
