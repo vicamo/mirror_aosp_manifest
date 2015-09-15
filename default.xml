@@ -398,6 +398,7 @@
   <project name="platform/external/quake" />
   <project name="platform/external/regex-re2" />
   <project name="platform/external/replicaisland" />
+  <project name="platform/external/rmi4utils" />
   <project name="platform/external/robolectric" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/safe-iop" />
