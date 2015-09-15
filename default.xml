@@ -853,6 +853,7 @@
   <project name="toolchain/mclinker" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
+  <project name="toolchain/ndk_chromite_config" />
   <project name="toolchain/perl" />
   <project name="toolchain/polly" />
   <project name="toolchain/ppl" />
