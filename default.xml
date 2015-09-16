@@ -784,6 +784,7 @@
   <project name="platform/system/attestation" />
   <project name="platform/system/bluetooth" />
   <project name="platform/system/bt" />
+  <project name="platform/system/ca-certificates" />
   <project name="platform/system/connectivity/apmanager" />
   <project name="platform/system/connectivity/shill" />
   <project name="platform/system/core" />
