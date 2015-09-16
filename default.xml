@@ -750,6 +750,7 @@
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" />
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" />
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" />
+  <project name="platform/prebuilts/gdb/linux-x86" />
   <project name="platform/prebuilts/go/darwin-x86" />
   <project name="platform/prebuilts/go/linux-x86" />
   <project name="platform/prebuilts/go/windows-x86" />
