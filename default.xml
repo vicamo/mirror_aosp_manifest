@@ -794,6 +794,7 @@
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
   <project name="platform/system/media" />
+  <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
   <project name="platform/system/peerd" />
   <project name="platform/system/security" />
