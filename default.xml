@@ -341,6 +341,7 @@
   <project name="platform/external/login-items-ae" />
   <project name="platform/external/lohit-fonts" />
   <project name="platform/external/ltrace" />
+  <project name="platform/external/lvm2" />
   <project name="platform/external/lz4" />
   <project name="platform/external/lzma" />
   <project name="platform/external/marisa-trie" />
