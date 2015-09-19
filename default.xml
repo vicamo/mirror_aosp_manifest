@@ -189,6 +189,7 @@
   <project name="platform/external/compiler-rt" />
   <project name="platform/external/compiler-rt_35a" />
   <project name="platform/external/conscrypt" />
+  <project name="platform/external/cros/system_api" />
   <project name="platform/external/cryptsetup" />
   <project name="platform/external/curl" />
   <project name="platform/external/dagger2" />
