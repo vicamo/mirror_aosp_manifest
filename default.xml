@@ -469,6 +469,7 @@
   <project name="platform/frameworks/compile/mclinker" />
   <project name="platform/frameworks/compile/slang" />
   <project name="platform/frameworks/ex" />
+  <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
   <project name="platform/frameworks/minikin" />
