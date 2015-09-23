@@ -456,6 +456,7 @@
   <project name="platform/external/wpa_supplicant_8" />
   <project name="platform/external/xdelta3" />
   <project name="platform/external/xerces-cpp" />
+  <project name="platform/external/xmlrpcpp" />
   <project name="platform/external/xmlwriter" />
   <project name="platform/external/xmp_toolkit" />
   <project name="platform/external/yaffs2" />
