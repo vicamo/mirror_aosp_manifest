@@ -471,6 +471,7 @@
   <project name="platform/frameworks/compile/llvm-ndk-cc" />
   <project name="platform/frameworks/compile/mclinker" />
   <project name="platform/frameworks/compile/slang" />
+  <project name="platform/frameworks/data" />
   <project name="platform/frameworks/ex" />
   <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/media/libvideoeditor" />
