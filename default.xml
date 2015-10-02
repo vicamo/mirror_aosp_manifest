@@ -768,6 +768,7 @@
   <project name="platform/prebuilts/libglog/darwin-x86" />
   <project name="platform/prebuilts/libglog/linux-x86" />
   <project name="platform/prebuilts/libglog/windows-x86" />
+  <project name="platform/prebuilts/libprotobuf/darwin" />
   <project name="platform/prebuilts/libs/libedit" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/misc" />
