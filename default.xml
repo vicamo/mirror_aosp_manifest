@@ -369,6 +369,7 @@
   <project name="platform/external/netperf" />
   <project name="platform/external/neven" />
   <project name="platform/external/nfacct" />
+  <project name="platform/external/ninja" />
   <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/noto-fonts" />
