@@ -774,6 +774,7 @@
   <project name="platform/prebuilts/libprotobuf/linux" />
   <project name="platform/prebuilts/libprotobuf/linux-x86" />
   <project name="platform/prebuilts/libprotobuf/windows" />
+  <project name="platform/prebuilts/libprotobuf/windows-x86" />
   <project name="platform/prebuilts/libs/libedit" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/misc" />
