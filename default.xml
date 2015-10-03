@@ -770,6 +770,7 @@
   <project name="platform/prebuilts/libglog/linux-x86" />
   <project name="platform/prebuilts/libglog/windows-x86" />
   <project name="platform/prebuilts/libprotobuf/darwin" />
+  <project name="platform/prebuilts/libprotobuf/darwin-x86" />
   <project name="platform/prebuilts/libprotobuf/linux" />
   <project name="platform/prebuilts/libprotobuf/windows" />
   <project name="platform/prebuilts/libs/libedit" />
