@@ -687,6 +687,7 @@
   <project name="platform/packages/wallpapers/NoiseField" />
   <project name="platform/packages/wallpapers/PhaseBeam" />
   <project name="platform/pdk" />
+  <project name="platform/platform_testing" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/android-emulator" />
   <project name="platform/prebuilts/android-emulator-build/archive" />
