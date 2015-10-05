@@ -144,6 +144,7 @@
   <project name="platform/external/chromium" />
   <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
+  <project name="platform/external/chromium-webview" />
   <project name="platform/external/chromium_org" />
   <project name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project name="platform/external/chromium_org/testing/gtest" />
