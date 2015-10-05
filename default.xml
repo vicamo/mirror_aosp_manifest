@@ -207,6 +207,7 @@
   <project name="platform/external/doclava" />
   <project name="platform/external/donuts" />
   <project name="platform/external/dosfstools" />
+  <project name="platform/external/drm_gralloc" />
   <project name="platform/external/dropbear" />
   <project name="platform/external/droiddriver" />
   <project name="platform/external/e2fsprogs" />
