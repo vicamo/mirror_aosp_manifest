@@ -262,6 +262,7 @@
   <project name="platform/external/hcidump" />
   <project name="platform/external/hsqldb" />
   <project name="platform/external/hyphenation" />
+  <project name="platform/external/hyphenation-patterns" />
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/id3lib" />
