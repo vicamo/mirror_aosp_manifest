@@ -604,6 +604,7 @@
   <project name="platform/packages/apps/DeskClock" />
   <project name="platform/packages/apps/Dialer" />
   <project name="platform/packages/apps/Email" />
+  <project name="platform/packages/apps/ExactCalculator" />
   <project name="platform/packages/apps/Exchange" />
   <project name="platform/packages/apps/FMRadio" />
   <project name="platform/packages/apps/Gallery" />
