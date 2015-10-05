@@ -111,6 +111,7 @@
   <project name="platform/external/antlr" />
   <project name="platform/external/apache-apr" />
   <project name="platform/external/apache-apr-util" />
+  <project name="platform/external/apache-commons-math" />
   <project name="platform/external/apache-harmony" />
   <project name="platform/external/apache-http" />
   <project name="platform/external/apache-log4cxx" />
