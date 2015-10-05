@@ -398,6 +398,7 @@
   <project name="platform/external/openvpn" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/owasp/sanitizer" />
+  <project name="platform/external/parameter-framework" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/pixman" />
   <project name="platform/external/pcre" />
