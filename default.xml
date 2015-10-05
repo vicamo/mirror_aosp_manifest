@@ -279,6 +279,7 @@
   <project name="platform/external/jdiff" />
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jenkins-hash" />
+  <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
   <project name="platform/external/jline" />
   <project name="platform/external/jmdns" />
