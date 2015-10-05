@@ -551,6 +551,7 @@
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
+  <project name="platform/hardware/marvell/bt" />
   <project name="platform/hardware/msm7k" />
   <project name="platform/hardware/nvidia/audio" />
   <project name="platform/hardware/nvidia/tegra124" />
