@@ -547,6 +547,7 @@
   <project name="platform/hardware/intel/img/libdrm" />
   <project name="platform/hardware/intel/img/psb_headers" />
   <project name="platform/hardware/intel/img/psb_video" />
+  <project name="platform/hardware/intel/sensors" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
