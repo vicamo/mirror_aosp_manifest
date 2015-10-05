@@ -205,6 +205,7 @@
   <project name="platform/external/dhcpcd-6.8.2" />
   <project name="platform/external/dnsmasq" />
   <project name="platform/external/doclava" />
+  <project name="platform/external/donuts" />
   <project name="platform/external/dosfstools" />
   <project name="platform/external/dropbear" />
   <project name="platform/external/droiddriver" />
