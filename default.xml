@@ -907,6 +907,7 @@
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
   <project name="tools/repo" />
+  <project name="trusty/app/gatekeeper" />
   <project name="trusty/app/sample" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
