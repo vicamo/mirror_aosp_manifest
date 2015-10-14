@@ -101,6 +101,7 @@
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/aac" />
   <project name="platform/external/actionbarsherlock" />
+  <project name="platform/external/adt-infra" />
   <project name="platform/external/aes" />
   <project name="platform/external/alac" />
   <project name="platform/external/alsa-lib" />
