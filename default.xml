@@ -366,6 +366,7 @@
   <project name="platform/external/messageformat" />
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
+  <project name="platform/external/mmc-utils" />
   <project name="platform/external/mockftpserver" />
   <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
