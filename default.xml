@@ -117,6 +117,7 @@
   <project name="platform/development" />
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/aac" />
+  <project name="platform/external/adt-infra" />
   <project name="platform/external/aes" />
   <project name="platform/external/alac" />
   <project name="platform/external/alljoyn/about_config" />
@@ -130,6 +131,7 @@
   <project name="platform/external/alsa-utils" />
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-mock" />
+  <project name="platform/external/androidplot" />
   <project name="platform/external/android-visualizer" />
   <project name="platform/external/angle" />
   <project name="platform/external/ant-glob" />
@@ -139,6 +141,7 @@
   <project name="platform/external/ant-wireless/ant_service" />
   <project name="platform/external/apache-apr" />
   <project name="platform/external/apache-apr-util" />
+  <project name="platform/external/apache-commons-math" />
   <project name="platform/external/apache-harmony" />
   <project name="platform/external/apache-http" />
   <project name="platform/external/apache-log4cxx" />
@@ -214,6 +217,7 @@
   <project name="platform/external/chromium_org/tools/gyp" />
   <project name="platform/external/chromium_org/v8" />
   <project name="platform/external/chromium-trace" />
+  <project name="platform/external/chromium-webview" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/cimax" />
   <project name="platform/external/clang" />
@@ -228,6 +232,7 @@
   <project name="platform/external/connectivity" />
   <project name="platform/external/conntrack-tools" />
   <project name="platform/external/conscrypt" />
+  <project name="platform/external/crcalc" />
   <project name="platform/external/crda" />
   <project name="platform/external/cros/system_api" />
   <project name="platform/external/cryptsetup" />
@@ -241,7 +246,10 @@
   <project name="platform/external/dhcpcd-6.8.2" />
   <project name="platform/external/dnsmasq" />
   <project name="platform/external/doclava" />
+  <project name="platform/external/donuts" />
   <project name="platform/external/dosfstools" />
+  <project name="platform/external/drm_gralloc" />
+  <project name="platform/external/drm_hwcomposer" />
   <project name="platform/external/droiddriver" />
   <project name="platform/external/dropbear" />
   <project name="platform/external/e2fsprogs" />
@@ -287,6 +295,7 @@
   <project name="platform/external/google-fonts/cutive-mono" />
   <project name="platform/external/google-fonts/dancing-script" />
   <project name="platform/external/google-tv-pairing-protocol" />
+  <project name="platform/external/gptfdisk" />
   <project name="platform/external/grub" />
   <project name="platform/external/gsoap" />
   <project name="platform/external/gson" />
@@ -301,6 +310,7 @@
   <project name="platform/external/hsqldb" />
   <project name="platform/external/httpcomponents" />
   <project name="platform/external/hyphenation" />
+  <project name="platform/external/hyphenation-patterns" />
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/id3lib" />
@@ -317,6 +327,7 @@
   <project name="platform/external/jdiff" />
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jenkins-hash" />
+  <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
   <project name="platform/external/jline" />
   <project name="platform/external/jmdns" />
@@ -345,6 +356,8 @@
   <project name="platform/external/libcxxabi_35a" />
   <project name="platform/external/libcxxrt" />
   <project name="platform/external/libdaemon" />
+  <project name="platform/external/libdivsufsort" />
+  <project name="platform/external/libdrm" />
   <project name="platform/external/libedit" />
   <project name="platform/external/libevent" />
   <project name="platform/external/libexif" />
@@ -380,6 +393,7 @@
   <project name="platform/external/libusb_aah" />
   <project name="platform/external/libusb-compat" />
   <project name="platform/external/libutf" />
+  <project name="platform/external/libvncserver" />
   <project name="platform/external/libvorbis" />
   <project name="platform/external/libvpx" />
   <project name="platform/external/libvterm" />
@@ -429,6 +443,7 @@
   <project name="platform/external/netperf" />
   <project name="platform/external/neven" />
   <project name="platform/external/nfacct" />
+  <project name="platform/external/ninja" />
   <project name="platform/external/nist-pkits" />
   <project name="platform/external/nist-sip" />
   <project name="platform/external/node" />
@@ -448,6 +463,7 @@
   <project name="platform/external/openvpn" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/owasp/sanitizer" />
+  <project name="platform/external/parameter-framework" />
   <project name="platform/external/pciutils" />
   <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
@@ -472,6 +488,7 @@
   <project name="platform/external/replicaisland" />
   <project name="platform/external/rmi4utils" />
   <project name="platform/external/robolectric" />
+  <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/rp-pppoe" />
   <project name="platform/external/safe-iop" />
@@ -517,6 +534,7 @@
   <project name="platform/external/utf8proc" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
+  <project name="platform/external/vboot_reference" />
   <project name="platform/external/vixl" />
   <project name="platform/external/vogar" />
   <project name="platform/external/webkit" />
@@ -527,6 +545,7 @@
   <project name="platform/external/wpa_supplicant_8" />
   <project name="platform/external/xdelta3" />
   <project name="platform/external/xerces-cpp" />
+  <project name="platform/external/xmlrpcpp" />
   <project name="platform/external/xmlwriter" />
   <project name="platform/external/xmp_toolkit" />
   <project name="platform/external/yaffs2" />
@@ -540,7 +559,10 @@
   <project name="platform/frameworks/compile/llvm-ndk-cc" />
   <project name="platform/frameworks/compile/mclinker" />
   <project name="platform/frameworks/compile/slang" />
+  <project name="platform/frameworks/data" />
+  <project name="platform/frameworks/data-binding" />
   <project name="platform/frameworks/ex" />
+  <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
   <project name="platform/frameworks/minikin" />
@@ -604,9 +626,12 @@
   <project name="platform/hardware/intel/img/libdrm" />
   <project name="platform/hardware/intel/img/psb_headers" />
   <project name="platform/hardware/intel/img/psb_video" />
+  <project name="platform/hardware/intel/sensors" />
   <project name="platform/hardware/invensense" />
   <project name="platform/hardware/libhardware" />
   <project name="platform/hardware/libhardware_legacy" />
+  <project name="platform/hardware/marvell/bt" />
+  <project name="platform/hardware/mediatek" />
   <project name="platform/hardware/msm7k" />
   <project name="platform/hardware/nvidia/audio" />
   <project name="platform/hardware/nvidia/tegra124" />
@@ -654,6 +679,7 @@
   <project name="platform/packages/apps/Calendar" />
   <project name="platform/packages/apps/Camera" />
   <project name="platform/packages/apps/Camera2" />
+  <project name="platform/packages/apps/CarrierConfig" />
   <project name="platform/packages/apps/CellBroadcastReceiver" />
   <project name="platform/packages/apps/CertInstaller" />
   <project name="platform/packages/apps/CMAccount" />
@@ -664,6 +690,7 @@
   <project name="platform/packages/apps/Dialer" />
   <project name="platform/packages/apps/Eleven" />
   <project name="platform/packages/apps/Email" />
+  <project name="platform/packages/apps/ExactCalculator" />
   <project name="platform/packages/apps/Exchange" />
   <project name="platform/packages/apps/FastPowerOn" />
   <project name="platform/packages/apps/FM" />
@@ -685,6 +712,7 @@
   <project name="platform/packages/apps/LegacyCamera" />
   <project name="platform/packages/apps/ManagedProvisioning" />
   <project name="platform/packages/apps/McLauncher" />
+  <project name="platform/packages/apps/Messaging" />
   <project name="platform/packages/apps/Mms" />
   <project name="platform/packages/apps/Music" />
   <project name="platform/packages/apps/MusicFX" />
@@ -724,6 +752,7 @@
   <project name="platform/packages/providers/ApplicationsProvider" />
   <project name="platform/packages/providers/BookmarkProvider" />
   <project name="platform/packages/providers/CalendarProvider" />
+  <project name="platform/packages/providers/CallLogProvider" />
   <project name="platform/packages/providers/ContactsProvider" />
   <project name="platform/packages/providers/DownloadProvider" />
   <project name="platform/packages/providers/DrmProvider" />
@@ -756,6 +785,7 @@
   <project name="platform/packages/wallpapers/NoiseField" />
   <project name="platform/packages/wallpapers/PhaseBeam" />
   <project name="platform/pdk" />
+  <project name="platform/platform_testing" />
   <project name="platform/prebuilt" />
   <project name="platform/prebuilts/android-emulator" />
   <project name="platform/prebuilts/android-emulator-build/archive" />
@@ -861,6 +891,12 @@
   <project name="platform/prebuilts/libglog/darwin-x86" />
   <project name="platform/prebuilts/libglog/linux-x86" />
   <project name="platform/prebuilts/libglog/windows-x86" />
+  <project name="platform/prebuilts/libprotobuf/darwin" />
+  <project name="platform/prebuilts/libprotobuf/darwin-x86" />
+  <project name="platform/prebuilts/libprotobuf/linux" />
+  <project name="platform/prebuilts/libprotobuf/linux-x86" />
+  <project name="platform/prebuilts/libprotobuf/windows" />
+  <project name="platform/prebuilts/libprotobuf/windows-x86" />
   <project name="platform/prebuilts/libs/libedit" />
   <project name="platform/prebuilts/maven_repo/android" />
   <project name="platform/prebuilts/misc" />
@@ -980,6 +1016,7 @@
   <project name="platform/vendor/qcom/msm8625" />
   <project name="platform/vendor/qcom/msm8660_csfb" />
   <project name="platform/vendor/qcom/msm8660_surf" />
+  <project name="platform/vendor/qcom/msm8909w" />
   <project name="platform/vendor/qcom/msm8910" />
   <project name="platform/vendor/qcom/msm8916" />
   <project name="platform/vendor/qcom/msm8916_32" />
@@ -997,6 +1034,7 @@
   <project name="platform/vendor/qcom-opensource/dataservices" />
   <project name="platform/vendor/qcom-opensource/data-test" />
   <project name="platform/vendor/qcom-opensource/diag" />
+  <project name="platform/vendor/qcom-opensource/display-frameworks" />
   <project name="platform/vendor/qcom-opensource/dpm" />
   <project name="platform/vendor/qcom-opensource/fm" />
   <project name="platform/vendor/qcom-opensource/kernel/kernel-tests" />
@@ -1068,6 +1106,8 @@
   <project name="tools/repo" />
   <project name="tools/test/manifest" />
   <project name="tools/test/project0" />
+  <project name="trusty/app/gatekeeper" />
+  <project name="trusty/app/keymaster" />
   <project name="trusty/app/sample" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
