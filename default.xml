@@ -424,6 +424,7 @@
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
   <project name="platform/external/mm-dash" />
+  <project name="platform/external/mmc-utils" />
   <project name="platform/external/mobicore" />
   <project name="platform/external/mockftpserver" />
   <project name="platform/external/mockito" />
