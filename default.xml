@@ -47,6 +47,7 @@
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
   <project name="device/huawei/angler" />
+  <project name="device/huawei/angler-kernel" />
   <project name="device/lge/hammerhead" />
   <project name="device/lge/hammerhead-kernel" />
   <project name="device/lge/mako" />
