@@ -572,6 +572,7 @@
   <project name="platform/hardware/qcom/keymaster" />
   <project name="platform/hardware/qcom/media" />
   <project name="platform/hardware/qcom/msm8960" />
+  <project name="platform/hardware/qcom/msm8994" />
   <project name="platform/hardware/qcom/msm8x26" />
   <project name="platform/hardware/qcom/msm8x27" />
   <project name="platform/hardware/qcom/msm8x74" />
