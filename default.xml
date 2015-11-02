@@ -346,6 +346,7 @@
   <project name="platform/external/lcc" />
   <project name="platform/external/libaio" />
   <project name="platform/external/libavc" />
+  <project name="platform/external/libbrillo" />
   <project name="platform/external/libcap" />
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libchrome" />
