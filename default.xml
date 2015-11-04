@@ -890,6 +890,7 @@
   <project name="platform/vendor/htc/dream-open" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
+  <project name="product/google/common" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
