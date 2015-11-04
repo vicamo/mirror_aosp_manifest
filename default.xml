@@ -249,6 +249,7 @@
   <project name="platform/external/genext2fs" />
   <project name="platform/external/gentoo/integration" />
   <project name="platform/external/gentoo/overlays/gentoo" />
+  <project name="platform/external/gentoo/portage" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmock" />
