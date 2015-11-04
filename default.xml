@@ -891,6 +891,7 @@
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/invensense" />
   <project name="product/google/common" />
+  <project name="product/google/example-ledflasher" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
