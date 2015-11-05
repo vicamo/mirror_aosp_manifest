@@ -622,6 +622,7 @@
   <project name="platform/hardware/alsa_sound" />
   <project name="platform/hardware/broadcom/libbt" />
   <project name="platform/hardware/broadcom/wlan" />
+  <project name="platform/hardware/bsp/kernel/common/v4.1" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/htc/dream" />
   <project name="platform/hardware/intel/audio_media" />
