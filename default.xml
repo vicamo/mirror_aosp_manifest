@@ -20,6 +20,7 @@
   <project name="device/generic/armv7-a" />
   <project name="device/generic/armv7-a-neon" />
   <project name="device/generic/art" />
+  <project name="device/generic/brillo" />
   <project name="device/generic/common" />
   <project name="device/generic/goldfish" />
   <project name="device/generic/mini-emulator-arm64" />
@@ -46,6 +47,10 @@
   <project name="device/htc/passion" />
   <project name="device/htc/passion-common" />
   <project name="device/htc/sapphire" />
+  <project name="device/huawei/angler" />
+  <project name="device/huawei/angler-kernel" />
+  <project name="device/lge/bullhead" />
+  <project name="device/lge/bullhead-kernel" />
   <project name="device/lge/hammerhead" />
   <project name="device/lge/hammerhead-kernel" />
   <project name="device/lge/mako" />
@@ -151,6 +156,7 @@
   <project name="platform/external/arduino" />
   <project name="platform/external/arduino-ide" />
   <project name="platform/external/astl" />
+  <project name="platform/external/autotest" />
   <project name="platform/external/avahi" />
   <project name="platform/external/bison" />
   <project name="platform/external/blktrace" />
@@ -284,6 +290,9 @@
   <project name="platform/external/gdata" />
   <project name="platform/external/gemmlowp" />
   <project name="platform/external/genext2fs" />
+  <project name="platform/external/gentoo/integration" />
+  <project name="platform/external/gentoo/overlays/gentoo" />
+  <project name="platform/external/gentoo/portage" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmock" />
@@ -648,6 +657,7 @@
   <project name="platform/hardware/qcom/media" />
   <project name="platform/hardware/qcom/misc" />
   <project name="platform/hardware/qcom/msm8960" />
+  <project name="platform/hardware/qcom/msm8994" />
   <project name="platform/hardware/qcom/msm8x26" />
   <project name="platform/hardware/qcom/msm8x27" />
   <project name="platform/hardware/qcom/msm8x74" />
@@ -953,6 +963,7 @@
   <project name="platform/tools/adt/eclipse" />
   <project name="platform/tools/adt/idea" />
   <project name="platform/tools/base" />
+  <project name="platform/tools/bdk" />
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
   <project name="platform/tools/emulator" />
@@ -1075,6 +1086,8 @@
   <project name="platform/vendor/renesas/ms7724" />
   <project name="platform/vendor/sample" />
   <project name="platform/vendor/st-ericsson/u300" />
+  <project name="product/google/common" />
+  <project name="product/google/example-ledflasher" />
   <project name="synaptics-dsxv2.1" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
