@@ -549,6 +549,7 @@
   <project name="platform/hardware/broadcom/wlan" />
   <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
+  <project name="platform/hardware/bsp/kernel/intel" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/intel/audio_media" />
   <project name="platform/hardware/intel/bootstub" />
