@@ -891,6 +891,7 @@
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/studio/cloud" />
+  <project name="platform/tools/studio/google/appindexing" />
   <project name="platform/tools/studio/google/cloud/testing" />
   <project name="platform/tools/studio/google/cloud/tools" />
   <project name="platform/tools/studio/google/login" />
