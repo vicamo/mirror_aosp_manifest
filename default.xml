@@ -811,6 +811,7 @@
   <project name="platform/prebuilts/go/windows-x86" />
   <project name="platform/prebuilts/google-breakpad/darwin-x86" />
   <project name="platform/prebuilts/google-breakpad/linux-x86" />
+  <project name="platform/prebuilts/google-breakpad/windows-x86" />
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/libedit/darwin-x86" />
   <project name="platform/prebuilts/libedit/linux-x86" />
