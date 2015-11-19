@@ -745,6 +745,7 @@
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
+  <project name="platform/prebuilts/fullsdk/build-tools/21-darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-linux" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-windows" />
