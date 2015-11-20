@@ -8,6 +8,7 @@
            sync-j="4" />
 
   <project name="accessories/manifest" />
+  <project name="brillo/manifest" />
   <project name="device/asus/deb" />
   <project name="device/asus/flo" />
   <project name="device/asus/flo-kernel" />
