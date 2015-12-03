@@ -7,6 +7,7 @@
            remote="aosp"
            sync-j="4" />
 
+  <project name="abl/tianocore/edk2" />
   <project name="accessories/manifest" />
   <project name="brillo/manifest" />
   <project name="device/asus/deb" />
@@ -123,6 +124,7 @@
   <project name="platform/developers/docs" />
   <project name="platform/developers/samples/android" />
   <project name="platform/development" />
+  <project name="platform/device/stm" />
   <project name="platform/docs/source.android.com" />
   <project name="platform/external/aac" />
   <project name="platform/external/adt-infra" />
@@ -437,8 +439,8 @@
   <project name="platform/external/mime4j" />
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
-  <project name="platform/external/mm-dash" />
   <project name="platform/external/mmc-utils" />
+  <project name="platform/external/mm-dash" />
   <project name="platform/external/mobicore" />
   <project name="platform/external/mock" />
   <project name="platform/external/mockftpserver" />
@@ -908,10 +910,10 @@
   <project name="platform/prebuilts/gdb/linux-x86" />
   <project name="platform/prebuilts/go/darwin-x86" />
   <project name="platform/prebuilts/go/linux-x86" />
-  <project name="platform/prebuilts/go/windows-x86" />
   <project name="platform/prebuilts/google-breakpad/darwin-x86" />
   <project name="platform/prebuilts/google-breakpad/linux-x86" />
   <project name="platform/prebuilts/google-breakpad/windows-x86" />
+  <project name="platform/prebuilts/go/windows-x86" />
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/libedit/darwin-x86" />
   <project name="platform/prebuilts/libedit/linux-x86" />
@@ -1016,6 +1018,12 @@
   <project name="platform/vendor/htc/prebuilt-open" />
   <project name="platform/vendor/htc/sapphire-open" />
   <project name="platform/vendor/invensense" />
+  <project name="platform/vendor/nxp/opensource/external/libnfc-nci" />
+  <project name="platform/vendor/nxp/opensource/external/p61-jcop-kit" />
+  <project name="platform/vendor/nxp/opensource/frameworks" />
+  <project name="platform/vendor/nxp/opensource/p61-jcop-clients" />
+  <project name="platform/vendor/nxp/opensource/p61-spi-services" />
+  <project name="platform/vendor/nxp/opensource/packages/apps/Nfc" />
   <project name="platform/vendor/pv-open" />
   <project name="platform/vendor/qcom/android-open" />
   <project name="platform/vendor/qcom/apq8026_lw" />
@@ -1068,6 +1076,7 @@
   <project name="platform/vendor/qcom-opensource/display-frameworks" />
   <project name="platform/vendor/qcom-opensource/dpm" />
   <project name="platform/vendor/qcom-opensource/fm" />
+  <project name="platform/vendor/qcom-opensource/fst-manager" />
   <project name="platform/vendor/qcom-opensource/kernel/kernel-tests" />
   <project name="platform/vendor/qcom-opensource/kernel-tests/mm-audio" />
   <project name="platform/vendor/qcom-opensource/location" />
@@ -1085,6 +1094,7 @@
   <project name="platform/vendor/qcom-opensource/webkit" />
   <project name="platform/vendor/qcom-opensource/wlan/prima" />
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0" />
+  <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" />
   <project name="platform/vendor/qcom/plutonium" />
   <project name="platform/vendor/qcom/proprietary-open" />
   <project name="platform/vendor/qcom/qsd8250_ffa" />
