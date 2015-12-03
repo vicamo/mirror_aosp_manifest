@@ -8,6 +8,7 @@
            sync-j="4" />
 
   <project name="accessories/manifest" />
+  <project name="brillo/manifest" />
   <project name="device/asus/deb" />
   <project name="device/asus/flo" />
   <project name="device/asus/flo-kernel" />
@@ -49,6 +50,7 @@
   <project name="device/htc/sapphire" />
   <project name="device/huawei/angler" />
   <project name="device/huawei/angler-kernel" />
+  <project name="device/intel/edison" />
   <project name="device/lge/bullhead" />
   <project name="device/lge/bullhead-kernel" />
   <project name="device/lge/hammerhead" />
@@ -98,6 +100,7 @@
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
+  <project name="kernel/x86" />
   <project name="kernel/x86_64" />
   <project name="mirror/manifest" />
   <project name="platform/abi/cpp" />
@@ -623,7 +626,9 @@
   <project name="platform/hardware/alsa_sound" />
   <project name="platform/hardware/broadcom/libbt" />
   <project name="platform/hardware/broadcom/wlan" />
+  <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
+  <project name="platform/hardware/bsp/kernel/intel" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/htc/dream" />
   <project name="platform/hardware/intel/audio_media" />
@@ -810,6 +815,7 @@
   <project name="platform/prebuilts/android-emulator-build/mesa-deps" />
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/android-emulator-build/qt" />
+  <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/clang/darwin-x86/3.1" />
   <project name="platform/prebuilts/clang/darwin-x86/3.2" />
   <project name="platform/prebuilts/clang/darwin-x86/arm/3.3" />
@@ -839,9 +845,12 @@
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
+  <project name="platform/prebuilts/fullsdk/build-tools/21-darwin" />
+  <project name="platform/prebuilts/fullsdk/build-tools/21-linux" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-linux" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-windows" />
+  <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
@@ -900,6 +909,9 @@
   <project name="platform/prebuilts/go/darwin-x86" />
   <project name="platform/prebuilts/go/linux-x86" />
   <project name="platform/prebuilts/go/windows-x86" />
+  <project name="platform/prebuilts/google-breakpad/darwin-x86" />
+  <project name="platform/prebuilts/google-breakpad/linux-x86" />
+  <project name="platform/prebuilts/google-breakpad/windows-x86" />
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/libedit/darwin-x86" />
   <project name="platform/prebuilts/libedit/linux-x86" />
@@ -953,6 +965,7 @@
   <project name="platform/system/qcom" />
   <project name="platform/system/security" />
   <project name="platform/system/tools/aidl" />
+  <project name="platform/system/tpm" />
   <project name="platform/system/tpm_manager" />
   <project name="platform/system/trunks" />
   <project name="platform/system/update_engine" />
@@ -984,6 +997,7 @@
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/studio/cloud" />
+  <project name="platform/tools/studio/google/appindexing" />
   <project name="platform/tools/studio/google/cloud/testing" />
   <project name="platform/tools/studio/google/cloud/tools" />
   <project name="platform/tools/studio/google/login" />
