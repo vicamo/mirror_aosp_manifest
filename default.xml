@@ -864,6 +864,7 @@
   <project name="platform/system/media" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
+  <project name="platform/system/nvram" />
   <project name="platform/system/peerd" />
   <project name="platform/system/security" />
   <project name="platform/system/tools/aidl" />
