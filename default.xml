@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".." />
+           fetch="git://codeaurora.org/quic/la/" />
   <default revision="aosp-new/master"
            remote="aosp"
            sync-j="4" />
