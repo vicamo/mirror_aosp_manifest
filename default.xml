@@ -106,6 +106,7 @@
   <project name="mirror/manifest" />
   <project name="platform/abi/cpp" />
   <project name="platform/art" />
+  <project name="platform/bbuildbot_config" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
   <project name="platform/bootable/diskinstaller" />
