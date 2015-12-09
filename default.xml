@@ -474,6 +474,7 @@
   <project name="platform/external/tinyxml2" />
   <project name="platform/external/tlsdate" />
   <project name="platform/external/toybox" />
+  <project name="platform/external/tpm2" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
   <project name="platform/external/unicode" />
