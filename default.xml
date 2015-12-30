@@ -64,6 +64,7 @@
   <project name="device/moto/stingray" />
   <project name="device/moto/wingray" />
   <project name="device/qcom/common" />
+  <project name="device/qcom/dragonboard" />
   <project name="device/qcom/msm8x30" />
   <project name="device/qcom/msm8x30-common" />
   <project name="device/qcom/msm8x74" />
@@ -546,6 +547,7 @@
   <project name="platform/external/tlsdate" />
   <project name="platform/external/toshiba_mcu" />
   <project name="platform/external/toybox" />
+  <project name="platform/external/tpm2" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
   <project name="platform/external/tslib" />
@@ -556,6 +558,7 @@
   <project name="platform/external/vboot_reference" />
   <project name="platform/external/vixl" />
   <project name="platform/external/vogar" />
+  <project name="platform/external/weave-common" />
   <project name="platform/external/webkit" />
   <project name="platform/external/webp" />
   <project name="platform/external/webrtc" />
@@ -632,6 +635,8 @@
   <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
   <project name="platform/hardware/bsp/kernel/intel" />
+  <project name="platform/hardware/bsp/kernel/qcom" />
+  <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/htc/dream" />
   <project name="platform/hardware/intel/audio_media" />
@@ -964,6 +969,7 @@
   <project name="platform/system/media" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
+  <project name="platform/system/nvram" />
   <project name="platform/system/peerd" />
   <project name="platform/system/qcom" />
   <project name="platform/system/security" />
@@ -1152,6 +1158,7 @@
   <project name="tools/test/project0" />
   <project name="trusty/app/gatekeeper" />
   <project name="trusty/app/keymaster" />
+  <project name="trusty/app/nvram" />
   <project name="trusty/app/sample" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
