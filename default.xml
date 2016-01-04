@@ -39,6 +39,7 @@
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
   <project name="device/google/debugcable" />
+  <project name="device/google/dragon" />
   <project name="device/google/phantasm" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
