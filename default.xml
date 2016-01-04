@@ -375,6 +375,7 @@
   <project name="platform/external/lvm2" />
   <project name="platform/external/lz4" />
   <project name="platform/external/lzma" />
+  <project name="platform/external/lzop" />
   <project name="platform/external/marisa-trie" />
   <project name="platform/external/markdown" />
   <project name="platform/external/mdnsresponder" />
