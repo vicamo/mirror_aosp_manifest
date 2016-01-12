@@ -891,6 +891,7 @@
   <project name="platform/tools/bdk" />
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
+  <project name="platform/tools/cmake-utils" />
   <project name="platform/tools/emulator" />
   <project name="platform/tools/external/fat32lib" />
   <project name="platform/tools/external/go/src/github.com/go-gl-legacy/gl" />
