@@ -200,6 +200,7 @@
   <project name="platform/external/clang" />
   <project name="platform/external/clang_35a" />
   <project name="platform/external/clearsilver" />
+  <project name="platform/external/cmake" />
   <project name="platform/external/cmockery" />
   <project name="platform/external/codesourcery" />
   <project name="platform/external/collada" />
