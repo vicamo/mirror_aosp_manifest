@@ -423,6 +423,7 @@
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/parameter-framework" />
   <project name="platform/external/pdfium" />
+  <project name="platform/external/piex" />
   <project name="platform/external/pixman" />
   <project name="platform/external/pcre" />
   <project name="platform/external/ping" />
