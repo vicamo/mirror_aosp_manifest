@@ -452,6 +452,7 @@
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
+  <project name="platform/external/shflags" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
   <project name="platform/external/slf4j" />
