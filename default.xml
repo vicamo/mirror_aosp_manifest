@@ -272,6 +272,7 @@
   <project name="platform/external/google-fonts/dancing-script" />
   <project name="platform/external/google-tv-pairing-protocol" />
   <project name="platform/external/googleclient" />
+  <project name="platform/external/googletest" />
   <project name="platform/external/gptfdisk" />
   <project name="platform/external/grub" />
   <project name="platform/external/gsoap" />
