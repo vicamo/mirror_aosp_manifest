@@ -83,6 +83,7 @@
   <project name="kernel/exynos" />
   <project name="kernel/goldfish" />
   <project name="kernel/lk" />
+  <project name="kernel/manifest" />
   <project name="kernel/mediatek" />
   <project name="kernel/msm" />
   <project name="kernel/omap" />
