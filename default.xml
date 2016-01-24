@@ -54,6 +54,7 @@
   <project name="device/huawei/angler" />
   <project name="device/huawei/angler-kernel" />
   <project name="device/intel/edison" />
+  <project name="device/intel/minnowboard" />
   <project name="device/lge/bullhead" />
   <project name="device/lge/bullhead-kernel" />
   <project name="device/lge/hammerhead" />
