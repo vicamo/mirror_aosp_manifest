@@ -572,6 +572,7 @@
   <project name="platform/hardware/bsp/kernel/common/v4.4" />
   <project name="platform/hardware/bsp/kernel/intel" />
   <project name="platform/hardware/bsp/kernel/intel/edison-v3.10" />
+  <project name="platform/hardware/bsp/kernel/intel/minnowboard-v3.14" />
   <project name="platform/hardware/bsp/kernel/qcom" />
   <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/google" />
