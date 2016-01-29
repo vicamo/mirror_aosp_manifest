@@ -577,6 +577,7 @@
   <project name="platform/hardware/bsp/kernel/marvell/pxa-v3.14" />
   <project name="platform/hardware/bsp/kernel/qcom" />
   <project name="platform/hardware/bsp/kernel/qcom/qcom-msm-v3.10" />
+  <project name="platform/hardware/bsp/kernel/rockchip" />
   <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/bsp/rockchip" />
   <project name="platform/hardware/google" />
