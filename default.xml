@@ -67,6 +67,7 @@
   <project name="device/moto/stingray" />
   <project name="device/moto/wingray" />
   <project name="device/qcom/dragonboard" />
+  <project name="device/rockchip/kylin" />
   <project name="device/sample" />
   <project name="device/samsung/crespo" />
   <project name="device/samsung/crespo4g" />
