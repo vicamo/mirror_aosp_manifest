@@ -578,6 +578,7 @@
   <project name="platform/hardware/bsp/kernel/qcom" />
   <project name="platform/hardware/bsp/kernel/qcom/qcom-msm-v3.10" />
   <project name="platform/hardware/bsp/qcom" />
+  <project name="platform/hardware/bsp/rockchip" />
   <project name="platform/hardware/google" />
   <project name="platform/hardware/intel/audio_media" />
   <project name="platform/hardware/intel/bootstub" />
