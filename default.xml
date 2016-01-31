@@ -573,6 +573,7 @@
   <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
   <project name="platform/hardware/bsp/kernel/common/v4.4" />
+  <project name="platform/hardware/bsp/kernel/imagination/v4.1" />
   <project name="platform/hardware/bsp/kernel/intel" />
   <project name="platform/hardware/bsp/kernel/intel/edison-v3.10" />
   <project name="platform/hardware/bsp/kernel/intel/minnowboard-v3.14" />
