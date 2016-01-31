@@ -53,6 +53,7 @@
   <project name="device/htc/sapphire" />
   <project name="device/huawei/angler" />
   <project name="device/huawei/angler-kernel" />
+  <project name="device/imagination/creatorci41" />
   <project name="device/intel/edison" />
   <project name="device/intel/minnowboard" />
   <project name="device/lge/bullhead" />
