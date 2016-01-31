@@ -569,6 +569,7 @@
   <project name="platform/hardware/akm" />
   <project name="platform/hardware/broadcom/libbt" />
   <project name="platform/hardware/broadcom/wlan" />
+  <project name="platform/hardware/bsp/imagination" />
   <project name="platform/hardware/bsp/intel" />
   <project name="platform/hardware/bsp/kernel/common/v4.1" />
   <project name="platform/hardware/bsp/kernel/common/v4.4" />
