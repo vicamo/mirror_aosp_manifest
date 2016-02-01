@@ -17,6 +17,7 @@
   <project name="device/asus/grouper" />
   <project name="device/asus/tilapia" />
   <project name="device/common" />
+  <project name="device/freescale/picoimx" />
   <project name="device/generic/arm64" />
   <project name="device/generic/armv7-a" />
   <project name="device/generic/armv7-a-neon" />
