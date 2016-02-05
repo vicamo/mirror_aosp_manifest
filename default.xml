@@ -94,6 +94,7 @@
   <project name="kernel/omap" />
   <project name="kernel/samsung" />
   <project name="kernel/tegra" />
+  <project name="kernel/tests" />
   <project name="kernel/x86" />
   <project name="kernel/x86_64" />
   <project name="mirror/manifest" />
