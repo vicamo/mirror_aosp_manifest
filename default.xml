@@ -466,6 +466,7 @@
   <project name="platform/external/shflags" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
+  <project name="platform/external/sl4a" />
   <project name="platform/external/slf4j" />
   <project name="platform/external/smack" />
   <project name="platform/external/smali" />
