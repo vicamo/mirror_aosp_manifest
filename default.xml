@@ -39,7 +39,10 @@
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
+  <project name="device/google/contexthub" />
   <project name="device/google/debugcable" />
+  <project name="device/google/dragon" />
+  <project name="device/google/dragon-kernel" />
   <project name="device/google/phantasm" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
@@ -83,6 +86,7 @@
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
   <project name="external/libnfnetlink" />
+  <project name="external/live555" />
   <project name="external/reverie/platform/external/chromium-org/third_party/WebKit" />
   <project name="framework/system/dlog" />
   <project name="kernel/bcm" />
@@ -142,6 +146,7 @@
   <project name="platform/external/alsa-lib" />
   <project name="platform/external/alsa-utils" />
   <project name="platform/external/android-clat" />
+  <project name="platform/external/android-cmake" />
   <project name="platform/external/android-mock" />
   <project name="platform/external/androidplot" />
   <project name="platform/external/android-visualizer" />
@@ -338,6 +343,7 @@
   <project name="platform/external/iputils" />
   <project name="platform/external/iw" />
   <project name="platform/external/jack" />
+  <project name="platform/external/jacoco" />
   <project name="platform/external/jarjar" />
   <project name="platform/external/javasqlite" />
   <project name="platform/external/javassist" />
@@ -433,6 +439,7 @@
   <project name="platform/external/lz4" />
   <project name="platform/external/lzma" />
   <project name="platform/external/lzo" />
+  <project name="platform/external/lzop" />
   <project name="platform/external/marisa-trie" />
   <project name="platform/external/markdown" />
   <project name="platform/external/mdnsresponder" />
@@ -518,6 +525,7 @@
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
   <project name="platform/external/sfntly" />
+  <project name="platform/external/shflags" />
   <project name="platform/external/sil-fonts" />
   <project name="platform/external/skia" />
   <project name="platform/external/slf4j" />
@@ -542,6 +550,7 @@
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinycompress" />
+  <project name="platform/external/tinytopology" />
   <project name="platform/external/tinyxml" />
   <project name="platform/external/tinyxml2" />
   <project name="platform/external/tlsdate" />
@@ -718,6 +727,7 @@
   <project name="platform/packages/apps/Dialer" />
   <project name="platform/packages/apps/Eleven" />
   <project name="platform/packages/apps/Email" />
+  <project name="platform/packages/apps/EmergencyInfo" />
   <project name="platform/packages/apps/ExactCalculator" />
   <project name="platform/packages/apps/Exchange" />
   <project name="platform/packages/apps/FastPowerOn" />
@@ -969,7 +979,6 @@
   <project name="platform/system/media" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
-  <project name="platform/system/nvram" />
   <project name="platform/system/peerd" />
   <project name="platform/system/qcom" />
   <project name="platform/system/security" />
@@ -1018,6 +1027,7 @@
   <project name="platform/TsFacialMakeup" />
   <project name="platform/vendor/aosp" />
   <project name="platform/vendor/asus/eee_701" />
+  <project name="platform/vendor/codeaurora/telephony" />
   <project name="platform/vendor/csr/unifi-105x" />
   <project name="platform/vendor/csr/unifi-60xx" />
   <project name="platform/vendor/htc/common-open" />
@@ -1031,6 +1041,9 @@
   <project name="platform/vendor/nxp/opensource/p61-jcop-clients" />
   <project name="platform/vendor/nxp/opensource/p61-spi-services" />
   <project name="platform/vendor/nxp/opensource/packages/apps/Nfc" />
+  <project name="platform/vendor/nxp/opensource/reference" />
+  <project name="platform/vendor/nxp/opensource/test" />
+  <project name="platform/vendor/nxp/opensource/tests" />
   <project name="platform/vendor/pv-open" />
   <project name="platform/vendor/qcom/android-open" />
   <project name="platform/vendor/qcom/apq8026_lw" />
@@ -1101,6 +1114,7 @@
   <project name="platform/vendor/qcom-opensource/webkit" />
   <project name="platform/vendor/qcom-opensource/wlan/prima" />
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0" />
+  <project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0" />
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" />
   <project name="platform/vendor/qcom/plutonium" />
   <project name="platform/vendor/qcom/proprietary-open" />
@@ -1122,6 +1136,7 @@
   <project name="product/google/common" />
   <project name="product/google/example-ledflasher" />
   <project name="synaptics-dsxv2.1" />
+  <project name="test/touchscreen/xy-table-schematic" />
   <project name="toolchain/avr-libc" />
   <project name="toolchain/benchmark" />
   <project name="toolchain/binutils" />
@@ -1158,7 +1173,6 @@
   <project name="tools/test/project0" />
   <project name="trusty/app/gatekeeper" />
   <project name="trusty/app/keymaster" />
-  <project name="trusty/app/nvram" />
   <project name="trusty/app/sample" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
@@ -1169,6 +1183,7 @@
   <project name="trusty/lk/trusty" />
   <project name="trusty/manifest" />
   <project name="trusty/vendor/google/aosp" />
+  <project name="vendor/maxim/tfcrypt" />
   <project name="vendor/qcom-opensource/omx/mm-audio" />
   <project name="vendor/qcom-opensource/omx/mm-core" />
   <project name="vendor/qcom-opensource/omx/mm-video" />
